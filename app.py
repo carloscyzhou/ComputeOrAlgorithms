@@ -26,6 +26,7 @@ OTHER, INK = "#999999", "#222222"
 YEAR_RAMP = ["#c6dbef", "#6baed6", "#2171b5", "#08306b"]          # older -> newer (lightness differs)
 START = 2012
 EMPTY = "No models match these filters. Widen the year range, add a domain or switch off 'Frontier models only'."
+st.title(QUESTION)          # drawn before any calculation so the question shows first
 
 
 # ================================================================== data
@@ -90,7 +91,6 @@ drop80 = path80["compute"].iloc[0] / path80["compute"].iloc[-1]
 months80 = (pd.to_datetime(path80["release"].iloc[-1]) - pd.to_datetime(path80["release"].iloc[0])).days / 30.44
 raw_rows = int(log["rows"].iloc[0])
 
-st.title(QUESTION)
 st.caption(f"**Who this is for:** {PERSONA}  \n**Data:** Epoch AI, Notable AI Models and Capabilities & "
            f"Benchmarking (CC BY 4.0) · **last refreshed** {meta0['processed_on']} · latest model "
            f"{meta0['latest_observation']} · full sources at the foot of the page")
@@ -364,6 +364,7 @@ with st.expander("Trace the numbers back to the source data"):
     row = models[models["model"] == pick].copy()
     row["training_compute_flop"] = row["training_compute_flop"].map("{:.3e}".format)
     row["publication_date"] = row["publication_date"].dt.strftime("%Y-%m-%d")
+    row = row.astype(str)
     st.dataframe(row.T.rename(columns={row.index[0]: "Value in data/processed/models_clean.csv"}),
                  width="stretch")
     st.download_button("Download the rows plotted in section 1 (CSV)", view.to_csv(index=False),

@@ -2,9 +2,9 @@
 
 **Question:** Since 2012, has frontier AI capability grown mainly because training compute was scaled up, or because algorithms improved?
 
-- **Deployed app:** `TODO: https://<your-app>.streamlit.app`
-- **Repository:** `TODO: https://github.com/<owner>/<repo>`
-- **Assessed version:** tag `v1.0` (commit `TODO`)
+- **Deployed app:** https://computeoralgorithms.streamlit.app
+- **Repository:** https://github.com/carloscyzhou/ComputeOrAlgorithms
+- **Assessed version:** release tag `v1.0` (its commit hash is given in the submission PDF)
 - **Group 4:** Aksha Mansuri, Chenyu Zhou, Citra Yulianti, Yanzhen Huang
 
 ## Why the question is arguable
