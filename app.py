@@ -46,18 +46,21 @@ def load():
     return m, allm, log, cov, meta, mmlu, eci
 
 
+CACHE_VERSION = 2   # bump when analysis.py output changes, so a deployed cache is not reused
+
+
 @st.cache_data
-def trend_for(years, logc):
+def trend_for(years, logc, version=CACHE_VERSION):
     return A.fit_trend(np.asarray(years), np.asarray(logc))
 
 
 @st.cache_data
-def eras_for(years, logc):
+def eras_for(years, logc, version=CACHE_VERSION):
     return A.find_breakpoint(np.asarray(years), np.asarray(logc)) if len(years) >= 20 else None
 
 
 @st.cache_data
-def capability_fit(kind):
+def capability_fit(kind, version=CACHE_VERSION):
     d = load()[5] if kind == "mmlu" else load()[6]
     return A.fit_capability(d["score"], d["compute"], d["t"], kind, 2021 if kind == "mmlu" else 2023)
 
@@ -217,7 +220,7 @@ else:
         st.info("Too few models, or no upward trend, in this selection to fit a line.")
 
     fig = go.Figure()
-    if trend_mode.startswith("One") and fit and log_axis:
+    if trend_mode.startswith("One") and fit and log_axis and "boots" in fit:
         xs = np.linspace(xs_all.min(), xs_all.max(), 60)
         band = fit["boots"][:, [1]] + fit["boots"][:, [0]] * xs
         lo, hi = np.percentile(band, [2.5, 97.5], axis=0)
