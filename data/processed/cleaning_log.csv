@@ -1,0 +1,4 @@
+step,rows
+Rows in raw CSV,1102
+After dropping rows with no usable publication date,1102
+After dropping rows with no positive training compute value,546
