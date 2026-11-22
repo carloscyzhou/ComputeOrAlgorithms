@@ -1,6 +1,6 @@
 # Data dictionary
 
-Three raw source samples (Epoch AI, CC BY 4.0) and six processed files. The app reads only `data/processed/`. `python make_data.py` rebuilds every processed file from `data/raw/`; `python verify.py` checks that the rebuild matches the committed files byte-for-byte (meta.csv without its run date) and recomputes key figures from the raw files independently.
+Three raw source samples (Epoch AI, CC BY 4.0) and seven processed files. The app reads only `data/processed/`. `python make_data.py` rebuilds every processed file from `data/raw/`; `python verify.py` checks that the rebuild matches the committed files byte-for-byte (meta.csv without its run date) and recomputes key figures from the raw files independently.
 
 Licence for every dataset: **Creative Commons Attribution 4.0 (CC BY 4.0)**, credit Epoch AI (see `data/raw/EPOCH_LICENSE.md`). Processed files are adaptations by Group 4 under the same licence.
 
@@ -16,7 +16,7 @@ Licence for every dataset: **Creative Commons Attribution 4.0 (CC BY 4.0)**, cre
 | Licence | CC BY 4.0 |
 | Downloaded | 20 November 2026 |
 | Size | 1,102 rows × 47 columns |
-| Columns used (units) | `Model` (text); `Organization` (text, may list several, comma-separated); `Country (of organization)` (text, may list several); `Domain` (text, may list several); `Publication date` (YYYY-MM-DD); `Training compute (FLOP)` (floating-point operations, Epoch estimate; blank for 556 rows); `Confidence` (Confident / Likely / Speculative / …); `Frontier model` (True/False: in the top 10 by training compute when released). All other columns are unused. |
+| Columns used (units) | `Model` (text); `Organization` (text, may list several, comma-separated); `Organization categorization` (Industry / Academia / Government / Research collective …, one per listed organisation); `Country (of organization)` (text, may list several); `Domain` (text, may list several); `Publication date` (YYYY-MM-DD); `Parameters` (count of trainable parameters, blank for many models); `Training compute (FLOP)` (floating-point operations, Epoch estimate; blank for 556 rows); `Confidence` (Confident / Likely / Speculative / …); `Frontier model` (True/False: in the top 10 by training compute when released). All other columns are unused. |
 | Primary key | `Model` (all 1,102 values unique) |
 | Time coverage | 1950-07-02 to 2026-11-10 |
 | Latest observation | 2026-11-10 |
@@ -58,12 +58,23 @@ Licence for every dataset: **Creative Commons Attribution 4.0 (CC BY 4.0)**, cre
 | Field | Detail |
 |---|---|
 | Built from | R1 by `make_data.py` → `analysis.clean_models` |
-| Size | 546 rows × 11 columns |
-| Columns (units) | `model` (text); `organization`, `country`, `domain` (text, **first listed** value only, blank → "Unspecified"); `publication_date` (YYYY-MM-DD); `year` (calendar year); `decimal_year` (year + (day of year − 1)/365.25); `training_compute_flop` (FLOP); `log10_flop` (log10 of FLOP, no unit); `confidence` (text, blank → "Not stated"); `frontier_model` (True/False) |
+| Size | 546 rows × 14 columns |
+| Columns (units) | `model` (text); `organization`, `country`, `domain` (text, **first listed** value only, blank → "Unspecified"); `org_type` (Industry / Industry and academia / Academia / Other or unknown); `countries_all` (text, every listed country); `publication_date` (YYYY-MM-DD); `year` (calendar year); `decimal_year` (year + (day of year − 1)/365.25); `training_compute_flop` (FLOP); `log10_flop` (log10 of FLOP, no unit); `parameters` (count; blank if unknown or ≤ 0); `confidence` (text, blank → "Not stated"); `frontier_model` (True/False) |
 | Primary key | `model` |
 | Time coverage | 1950-07-02 to 2026-11-05 |
 | Latest observation | 2026-11-05 |
-| Transform | (a) parse `Publication date`, drop rows that fail (0 dropped); (b) coerce `Training compute (FLOP)` to a number and keep values > 0 (1,102 → 546); (c) keep first-listed organisation, country and domain; (d) add `year`, `decimal_year`, `log10_flop`; (e) sort by date then model |
+| Transform | (a) parse `Publication date`, drop rows that fail (0 dropped); (b) coerce `Training compute (FLOP)` to a number and keep values > 0 (1,102 → 546); (c) keep first-listed organisation, country and domain, and all listed countries; (d) `org_type`: any mix of Industry and Academia in `Organization categorization` → "Industry and academia"; only Industry → "Industry"; only Academia → "Academia"; anything else or blank → "Other or unknown"; (e) `parameters` coerced to a number, values ≤ 0 set blank; (f) add `year`, `decimal_year`, `log10_flop`; (g) sort by date then model |
+
+### P1b. `models_all.csv` — every notable model, with or without a compute estimate
+| Field | Detail |
+|---|---|
+| Built from | R1 by `make_data.py` → `analysis.all_models` |
+| Size | 1,102 rows × 9 columns |
+| Columns (units) | `model`, `organization`, `org_type`, `country`, `countries_all`, `domain`, `publication_date`, `year` (as P1); `has_compute` (True if `Training compute (FLOP)` > 0) |
+| Primary key | `model` |
+| Time coverage | 1950-07-02 to 2026-11-10 |
+| Latest observation | 2026-11-10 |
+| Transform | Steps (a), (c), (d) of P1 without the compute filter; add `has_compute`; sort by date then model. Used only by the organisation-type share chart, which counts all notable models. |
 
 ### P2. `cleaning_log.csv`
 | Field | Detail |
@@ -127,5 +138,15 @@ Licence for every dataset: **Creative Commons Attribution 4.0 (CC BY 4.0)**, cre
 | R² (compute only / compute + year) | 1 − SSE/SST of the fit without and with the year term |
 | Algorithm share | ln(rate) / (ln(rate) + ln(compute growth)), with the headline compute growth |
 | 80% MMLU path and "× cheaper" | P4 in release order: each model with `score` ≥ 0.80 and less compute than every earlier such model; ratio of first to last compute |
+| Two-era trend | Break year searched 2012–2022 in quarter-year steps (≥ 10 models each side); the split with the least total squared error; one least-squares line per era |
+| Before / after 2010 trend | Separate least-squares lines for models published before 2010 and from 2010 |
+| Largest model so far | Running maximum of `training_compute_flop` in date order |
+| Median and largest per year | Median and maximum of `training_compute_flop` by `year` |
+| Models per order of magnitude | Count of rows by floor(`log10_flop`) |
+| Parameters vs compute r | Pearson correlation of log10(`parameters`) and `log10_flop`, rows with parameters |
+| Top organisations / countries | Count of rows by first-listed `organization` / `country` |
+| Australian models | Count of rows whose `countries_all` contains "Australia" |
+| Organisation-type share | P1b rows in the selected years (from 2010) and domains, counted by `year` × `org_type`, divided by the year total |
+| Iso-capability map | The fitted MMLU model evaluated on a 120 × 120 grid of release date (2021.5–2025) × log10 compute (22–25.7) |
 | Waterfall split | Fitted score moved from (A's compute, A's date) → (B's compute, A's date) → (B's compute, B's date); residual = actual change − both parts |
 | Share with a compute estimate | `share_with_compute` from P3 |

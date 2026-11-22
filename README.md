@@ -18,11 +18,11 @@ An **Australian Government funding adviser** who must recommend whether public A
 ## User stories
 
 1. **As an** Australian Government funding adviser, **I want** to see how fast the training compute of notable AI models has grown since 2012, and whether that holds by domain, era and for frontier models only, **so that** I can judge how quickly the compute requirement at the frontier is rising.
-   *Walk-through:* opening headline and tiles → section 1 chart and tiles → change the sidebar year slider, domain selector and "Frontier models only" toggle.
+   *Walk-through:* opening headline and tiles → section 1 (compute over time with one-trend / two-era / before-and-after-2010 lines, median and largest run per year, models per year, coverage, distribution, size vs compute) → change the sidebar year slider, domain selector and "Frontier models only" toggle → section 2 (largest runs, top organisations and countries, organisation-type share).
 2. **As an** Australian Government funding adviser, **I want** to compare benchmark scores of models trained with the same compute but released in different years, **so that** I can estimate how much yearly progress comes from better algorithms rather than more compute.
-   *Walk-through:* section 2 (switch between MMLU and the Epoch Capabilities Index), the R² bars, the "one year of methods ≈ compute" figure, the 80%-MMLU chart, and "Our answer".
+   *Walk-through:* section 3 (switch between MMLU and the Epoch Capabilities Index; the Replay tab), the R² bars, the "one year of methods ≈ compute" figure, the iso-capability map, the 80%-MMLU chart, and "Our answer".
 3. **As an** Australian Government funding adviser, **I want** to split the score gain between two specific models into compute, methods and model-specific parts and trace each figure to the source rows, **so that** I can cite a concrete, defensible example in my brief.
-   *Walk-through:* section 3 (pick "From" and "To" models) → "Trace the numbers back to the source data" panel (cleaning log, formulas, row lookup, CSV download).
+   *Walk-through:* section 4 (pick "From" and "To" models) → "Trace the numbers back to the source data" panel (cleaning log, formulas, row lookup, CSV download).
 
 ## Run it
 
@@ -43,7 +43,7 @@ python -m venv .venv
 | `make_data.py` | Regenerates every processed file from `data/raw/`. |
 | `verify.py` | Regenerates the processed files in a temp copy, compares them with the committed ones, and recomputes key numbers from the raw files independently. |
 | `data/raw/` | Source samples from Epoch AI, unmodified, plus the Epoch licence note. |
-| `data/processed/` | The six files the app reads. |
+| `data/processed/` | The seven files the app reads. |
 | `DATA_DICTIONARY.md` | Source, URL, licence, columns and units, primary key, coverage, latest observation and transform for every dataset. |
 | `PROVENANCE.md` | AI provenance matrix (one or more rows per member). |
 | `DISCLOSURE.md` | Data and AI disclosure statement. |

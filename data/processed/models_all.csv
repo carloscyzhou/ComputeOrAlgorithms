@@ -1,0 +1,1103 @@
+model,organization,org_type,country,countries_all,domain,publication_date,year,has_compute
+Theseus,Bell Laboratories,Industry,United States of America,United States of America,Robotics,1950-07-02,1950,True
+SNARC,Harvard University,Academia,United States of America,United States of America,Robotics,1952-01-08,1952,False
+Genetic algorithm,Institute for Advanced Study,Academia,United States of America,United States of America,Mathematics,1954-07-02,1954,False
+Self Organizing System,Massachusetts Institute of Technology (MIT),Academia,United States of America,United States of America,Other,1955-03-01,1955,False
+Sequence-based pattern recognition,Massachusetts Institute of Technology (MIT),Academia,United States of America,United States of America,Vision,1955-03-01,1955,False
+Perceptron Mark I,Cornell Aeronautical Laboratory,Academia,United States of America,"United States of America,United States of America",Other,1957-01-01,1957,True
+Pandemonium (morse),Massachusetts Institute of Technology (MIT),Academia,United States of America,United States of America,Language,1959-02-01,1959,True
+Samuel Neural Checkers,IBM,Industry,United States of America,United States of America,Games,1959-07-01,1959,True
+Pattern recognition and reading by machine,Sandia Corporation,Industry,United States of America,United States of America,Vision,1959-12-01,1959,False
+Perceptron (1960),Cornell Aeronautical Laboratory,Academia,United States of America,United States of America,Vision,1960-03-30,1960,True
+ADALINE,Stanford University,Academia,United States of America,United States of America,Vision,1960-06-30,1960,True
+Linear Decision Functions,Bell Laboratories,Industry,United States of America,United States of America,Mathematics,1962-06-01,1962,True
+MADALINE I,Stanford University,Academia,United States of America,United States of America,Other,1962-07-01,1962,False
+Print Recognition Logic,IBM,Industry,United States of America,United States of America,Vision,1963-01-01,1963,True
+Heuristic Reinforcement Learning,Purdue University,Academia,United States of America,United States of America,Robotics,1965-10-01,1965,True
+LTE speaker verification system,IBM,Industry,United States of America,United States of America,Speech,1966-11-01,1966,True
+Boxes (pole),University of Edinburgh,Academia,United Kingdom,United Kingdom,Games,1968-07-01,1968,False
+GLEE,University of Edinburgh,Academia,United Kingdom,United Kingdom,Games,1968-07-01,1968,False
+Decision tree adaline,Tokyo Medical and Dental University,Academia,Japan,Japan,Medicine,1969-05-01,1969,False
+Piecewise linear model,University of Kansas,Academia,United States of America,United States of America,Vision,1973-11-01,1973,False
+Cognitron,Biological Cybernetics,Industry,Japan,Japan,Other,1975-09-01,1975,True
+Transfer Learning,University of Zagreb,Academia,Croatia,Croatia,Vision,1976-07-01,1976,False
+Neocognitron,NHK Broadcasting Science Research Laboratories,Industry,Japan,Japan,Vision,1980-04-01,1980,True
+Kohonen network,Helsinki University of Technology,Academia,Finland,Finland,Mathematics,1981-07-25,1981,False
+Hopfield network,California Institute of Technology,Academia,United States of America,United States of America,Other,1982-04-01,1982,False
+ASE+ACE,University of Massachusetts Amherst,Academia,United States of America,United States of America,Robotics,1983-09-01,1983,True
+Hierarchical Cognitron,NHK Broadcasting Science Research Laboratories,Industry,Japan,Japan,Other,1984-04-01,1984,False
+Error Propagation,University of California San Diego,Academia,United States of America,"United States of America,United States of America",Other,1986-01-03,1986,False
+Distributed representation NN,Carnegie Mellon University (CMU),Academia,United States of America,United States of America,Other,1986-08-15,1986,True
+MLP with back-propagation,University of California San Diego,Academia,United States of America,"United States of America,United States of America",Mathematics,1986-10-01,1986,True
+Optimized Multi-Scale Edge Detection,Massachusetts Institute of Technology (MIT),Academia,United States of America,United States of America,Vision,1986-11-01,1986,False
+NetTalk (dictionary),Princeton University,Academia,United States of America,United States of America,Speech,1987-06-06,1987,True
+NetTalk (transcription),Princeton University,Academia,United States of America,United States of America,Speech,1987-06-06,1987,True
+Translation-invariant MLP,Carnegie Mellon University (CMU),Academia,United States of America,United States of America,Unspecified,1987-06-15,1987,True
+Latent semantic analysis,University of Chicago,Industry and academia,United States of America,"United States of America,United States of America,Canada",Language,1988-04-05,1988,False
+MLN-ASR,McGill University,Academia,Canada,Canada,Speech,1988-08-01,1988,True
+MLP baggage detector,Science Applications International Corporation / SAIC,Industry,United States of America,United States of America,Vision,1989-01-01,1989,False
+Q-learning,University of London,Academia,United Kingdom,United Kingdom,Robotics,1989-01-01,1989,False
+Invariant image recognition,Complutense University of Madrid,Academia,Spain,Spain,Vision,1989-06-18,1989,True
+Truck backer-upper,Stanford University,Academia,United States of America,United States of America,Driving,1989-06-18,1989,False
+Handwritten digit recognition network,AT&T,Industry,United States of America,United States of America,Vision,1989-11-27,1989,True
+Speaker-independent vowel classification,University of Washington,Academia,United States of America,United States of America,Speech,1989-11-27,1989,True
+Zip CNN,AT&T,Industry,United States of America,"United States of America,United States of America",Vision,1989-12-01,1989,True
+NETtalk reimplementation,Oregon State University,Academia,United States of America,United States of America,Speech,1990-06-01,1990,True
+Bankruptcy-NN,Unspecified,Other or unknown,Unspecified,Unspecified,Other,1990-06-17,1990,True
+ISR network,Stanford University,Academia,United States of America,United States of America,Vision,1990-10-01,1990,False
+SexNet classification,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,1990-10-01,1990,False
+SexNet compression,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,1990-10-01,1990,True
+RAAM,Unspecified,Other or unknown,Unspecified,Unspecified,Other,1990-11-01,1990,False
+Weight Decay,Unspecified,Other or unknown,Unspecified,Unspecified,Speech,1991-12-02,1991,True
+TD-Gammon,IBM,Industry,United States of America,United States of America,Games,1992-05-01,1992,True
+Golem,Alan Turing Institute,Other or unknown,United Kingdom,United Kingdom,Biology,1992-10-01,1992,False
+Cancer drug mechanism prediction,National Cancer Institute,Other or unknown,United States of America,United States of America,Medicine,1992-10-16,1992,True
+Boosting,Bell Laboratories,Industry,United States of America,United States of America,Vision,1992-11-30,1992,False
+IBM-5,IBM,Industry,United States of America,United States of America,Language,1993-06-15,1993,False
+Siamese-TDNN,Bell Laboratories,Industry,United States of America,United States of America,Vision,1993-08-01,1993,True
+ANN Eye Tracker,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,1993-11-29,1993,True
+Ceramic-MLP,Sapienza Università di Roma,Academia,Italy,Italy,Materials science,1994-01-07,1994,True
+GroupLens,Massachusetts Institute of Technology (MIT),Academia,United States of America,United States of America,Recommendation,1994-10-22,1994,False
+JPMAX,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,1994-12-02,1994,True
+Mixture of linear models,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,1994-12-02,1994,True
+NeuroChess,Unspecified,Other or unknown,Unspecified,Unspecified,Games,1994-12-02,1994,True
+Predictive Coding NN,Technical University of Munich,Academia,Germany,Germany,Language,1994-12-02,1994,True
+Support Vector Machines,AT&T,Industry,United States of America,"United States of America,United States of America",Vision,1995-09-01,1995,False
+LISSOM,University of Texas at Austin,Academia,United States of America,United States of America,Vision,1995-11-27,1995,True
+MUSIC perceptron,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,1996-06-03,1996,True
+System 11,Carnegie Mellon University (CMU),Academia,United States of America,United States of America,Vision,1996-06-18,1996,True
+AdaBoost.M2 Digit Recognition,AT&T,Industry,United States of America,United States of America,Vision,1996-07-03,1996,False
+SOM-CNN,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,1997-01-31,1997,True
+Deep Blue,IBM,Industry,United States of America,United States of America,Games,1997-05-01,1997,False
+Bidirectional RNN,Advanced Telecommunications Research Institute,Industry,Japan,Japan,Speech,1997-11-01,1997,False
+LSTM,Technical University of Munich,Academia,Germany,Germany,Language,1997-11-15,1997,True
+LeNet-5,AT&T,Industry,United States of America,United States of America,Vision,1998-11-01,1998,True
+LSTM with forget gates,IDSIA,Academia,Switzerland,Switzerland,Language,1999-01-02,1999,False
+RECONTRA-categorized,Unspecified,Other or unknown,Unspecified,Unspecified,Language,1999-06-02,1999,True
+RECONTRA-uncategorized,Unspecified,Other or unknown,Unspecified,Unspecified,Language,1999-06-02,1999,True
+IBM Model 4,University of Southern California,Industry and academia,United States of America,"United States of America,United States of America,United States of America",Language,1999-07-02,1999,False
+Neural LM,University of Montreal / Université de Montréal,Academia,Canada,Canada,Language,2000-11-28,2000,True
+PoE MNIST,University College London (UCL),Academia,United Kingdom,United Kingdom,Vision,2000-11-28,2000,True
+Immediate trihead,Brown University,Academia,United States of America,United States of America,Language,2001-07-06,2001,False
+Gradient Boosting Machine,Stanford University,Academia,United States of America,United States of America,Mathematics,2001-10-01,2001,False
+Decision tree (classification),Mitsubishi Electric Research Labs,Industry,United States of America,"United States of America,United States of America",Vision,2001-12-08,2001,True
+Thumbs Up?,Cornell University,Industry and academia,United States of America,"United States of America,United States of America",Language,2002-05-28,2002,False
+Statistical Shape Constellations,California Institute of Technology,Academia,United States of America,United States of America,Vision,2003-01-01,2003,False
+LDA,Stanford University,Academia,United States of America,United States of America,Language,2003-02-02,2003,False
+NPLM (AP News),University of Montreal / Université de Montréal,Academia,Canada,Canada,Language,2003-03-15,2003,True
+NPLM (Brown),University of Montreal / Université de Montréal,Academia,Canada,Canada,Language,2003-03-15,2003,True
+Invariant CNN,New York University (NYU),Academia,United States of America,United States of America,Vision,2004-06-27,2004,True
+LMICA,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,2004-12-01,2004,True
+Hierarchical LM,Unspecified,Other or unknown,Unspecified,Unspecified,Language,2005-01-06,2005,True
+Histograms of Oriented Gradients,INRIA,Academia,France,France,Vision,2005-06-25,2005,False
+RankNet,Microsoft Research,Industry,United States of America,"United States of America,United States of America",Search,2005-08-07,2005,True
+TFE SVM,Centre de Recherche en Automatique de Nancy (CRAN),Academia,France,"France,Canada",Vision,2006-02-02,2006,False
+FAST,University of Cambridge,Academia,United Kingdom,United Kingdom,Video,2006-05-07,2006,False
+Crazy Stone,INRIA,Academia,France,France,Games,2006-05-29,2006,False
+SVM-CNN,New York University (NYU),Academia,United States of America,United States of America,Vision,2006-06-17,2006,True
+Spatial Pyramid Matching,INRIA,Academia,France,"France,United States of America,France",Vision,2006-06-17,2006,False
+Deep Belief Nets,University of Toronto,Academia,Canada,"Canada,Singapore",Vision,2006-07-18,2006,False
+Dimensionality Reduction,University of Toronto,Academia,Canada,Canada,Vision,2006-07-18,2006,False
+Local Binary Patterns for facial recognition,University of Oulu,Industry and academia,Finland,"Finland,Multinational",Vision,2006-12-01,2006,False
+Greedy layer-wise DNN training,University of Montreal / Université de Montréal,Academia,Canada,Canada,Other,2006-12-04,2006,False
+λ-WASP,UT Austin,Academia,United States of America,United States of America,Language,2007-06-01,2007,False
+KN-LM,Google,Industry,United States of America,United States of America,Language,2007-06-22,2007,True
+SB-LM,Google,Industry,United States of America,United States of America,Language,2007-06-22,2007,True
+BLSTM for handwriting (1),University of Bern,Academia,Switzerland,"Switzerland,Switzerland,Germany",Vision,2007-09-23,2007,False
+Enhanced Neighborhood-Based Filtering,AT&T,Industry,United States of America,United States of America,Recommendation,2007-10-28,2007,False
+BLSTM for handwriting (2),University of Bern,Academia,Switzerland,"Switzerland,Switzerland,Germany",Vision,2007-12-03,2007,False
+Deep Multitask NLP Network,NEC Laboratories,Industry,United States of America,United States of America,Language,2008-07-05,2008,False
+Denoising Autoencoders,University of Montreal / Université de Montréal,Academia,Canada,Canada,Other,2008-07-05,2008,False
+Sparse digit recognition SVM,University of Lubeck,Academia,Germany,Germany,Vision,2008-11-19,2008,False
+BigChaos 2008,AT&T,Industry,United States of America,United States of America,Recommendation,2008-11-25,2008,False
+HLBL,University of Toronto,Academia,Canada,Canada,Language,2008-12-08,2008,False
+GNN,University of Siena,Academia,Italy,Italy,Other,2008-12-09,2008,True
+BP-DBN,University of Toronto,Academia,Canada,Canada,Speech,2009-01-01,2009,False
+RBM Image Classifier,University of Toronto,Academia,Canada,Canada,Vision,2009-04-08,2009,False
+GPU DBNs,Stanford University,Academia,United States of America,United States of America,Other,2009-06-15,2009,True
+BellKor 2008,AT&T,Industry,United States of America,United States of America,Recommendation,2009-08-01,2009,False
+BellKor 2009,AT&T,Industry,United States of America,United States of America,Recommendation,2009-08-01,2009,False
+BigChaos OptiBlend,AT&T,Industry,United States of America,United States of America,Recommendation,2009-08-01,2009,False
+Pragmatic Theory solution (Netflix 2009),Pragmatic Theory Inc.,Industry,Canada,Canada,Recommendation,2009-08-01,2009,False
+MatrixFac for Recommenders,Yahoo Research,Industry,United States of America,"United States of America,United States of America",Recommendation,2009-08-07,2009,False
+Two Stage Feature Extraction (MNIST),New York University (NYU),Academia,United States of America,United States of America,Vision,2009-09-01,2009,True
+BellKor 2007,AT&T,Industry,United States of America,United States of America,Recommendation,2009-09-21,2009,False
+LCNP LabelMe,University of Bonn,Academia,Germany,Germany,Vision,2009-11-22,2009,True
+LCNP MNIST,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,2009-11-22,2009,True
+LCNP NORB,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,2009-11-22,2009,True
+Super-vector coding,University of Illinois Urbana-Champaign (UIUC),Industry and academia,United States of America,"United States of America,United States of America,United States of America",Vision,2010-01-01,2010,False
+Stacked Denoising Autoencoders,University of Montreal / Université de Montréal,Academia,Canada,"Canada,Canada",Other,2010-01-03,2010,False
+Feedforward NN,University of Montreal / Université de Montréal,Academia,Canada,Canada,Vision,2010-05-13,2010,True
+iCCCP,Massachusetts Institute of Technology (MIT),Academia,United States of America,United States of America,Vision,2010-06-13,2010,True
+ReLU (LFW),University of Toronto,Academia,Canada,Canada,Vision,2010-06-15,2010,False
+ReLU (NORB),University of Toronto,Academia,Canada,Canada,Vision,2010-06-15,2010,False
+Pooling CNN (Caltech 101),University of Bonn,Academia,Germany,Germany,Vision,2010-09-15,2010,True
+Pooling CNN (NORB),University of Bonn,Academia,Germany,Germany,Vision,2010-09-15,2010,True
+RNN LM,Johns Hopkins University,Academia,United States of America,United States of America,Language,2010-09-26,2010,True
+YouTube Video Recommendation System,Google,Industry,United States of America,United States of America,Recommendation,2010-09-26,2010,False
+Deep rectifier networks,University of Montreal / Université de Montréal,Academia,Canada,Canada,Vision,2011-04-13,2011,False
+Deep Autoencoders,University of Toronto,Academia,Canada,Canada,Vision,2011-04-29,2011,True
+Cross-Lingual POS Tagger,Carnegie Mellon University (CMU),Industry and academia,United States of America,"United States of America,United States of America",Language,2011-06-19,2011,False
+Vector Space Model,Stanford University,Academia,United States of America,United States of America,Language,2011-06-19,2011,False
+Recursive Neural Network,Stanford University,Academia,United States of America,United States of America,Vision,2011-06-28,2011,False
+High Performance CNN (NORB),IDSIA,Academia,Switzerland,"Switzerland,Switzerland",Vision,2011-07-16,2011,True
+CNN Committee (MNIST),IDSIA,Academia,Switzerland,Switzerland,Vision,2011-09-18,2011,True
+CNN Committee (NIST),IDSIA,Academia,Switzerland,Switzerland,Vision,2011-09-18,2011,True
+Adaptive Subgrad,Technion - Israel Institute of Technology,Industry and academia,Israel,"Israel,United States of America,United States of America",Language,2011-10-03,2011,False
+CNN committee (traffic sign),IDSIA,Academia,Switzerland,Switzerland,Vision,2011-10-03,2011,True
+NLP from scratch,NEC Laboratories,Industry and academia,United States of America,"United States of America,United States of America",Language,2011-11-08,2011,False
+Dropout (CIFAR),University of Toronto,Academia,Canada,Canada,Vision,2012-06-03,2012,True
+Dropout (ImageNet),University of Toronto,Academia,Canada,Canada,Vision,2012-06-03,2012,True
+Dropout (MNIST),University of Toronto,Academia,Canada,Canada,Vision,2012-06-03,2012,True
+Dropout (TIMIT),University of Toronto,Academia,Canada,Canada,Speech,2012-06-03,2012,False
+Unsupervised High-level Feature Learner,Google,Industry,United States of America,United States of America,Vision,2012-07-12,2012,True
+Context-dependent RNN,Microsoft Research,Industry and academia,United States of America,"United States of America,Czechia",Language,2012-07-27,2012,False
+LSTM LM,RWTH Aachen University,Academia,Germany,Germany,Language,2012-09-09,2012,True
+AlexNet,University of Toronto,Academia,Canada,Canada,Vision,2012-09-30,2012,True
+RNN+LDA+KN5+cache,Microsoft,Industry and academia,United States of America,"United States of America,Czechia",Language,2012-12-01,2012,False
+Bayesian automated hyperparameter tuning,University of Toronto,Academia,Canada,"Canada,Canada,United States of America",Other,2012-12-02,2012,False
+DNN EM segmentation,IDSIA,Academia,Switzerland,"Switzerland,Switzerland",Vision,2012-12-03,2012,True
+DistBelief Speech,Google,Industry,United States of America,United States of America,Speech,2012-12-03,2012,True
+DistBelief Vision,Google,Industry,United States of America,United States of America,Vision,2012-12-03,2012,False
+DistBelief NNLM,Google,Industry,United States of America,United States of America,Language,2013-01-16,2013,True
+PreTrans-3L-250H,University of Toronto,Academia,Canada,Canada,Speech,2013-03-22,2013,False
+Selective Search,University of Trento,Academia,Italy,"Italy,Netherlands",Vision,2013-04-02,2013,False
+Multilingual DNN,Google,Industry,United States of America,United States of America,Speech,2013-05-26,2013,False
+ReLU-Speech,Google,Industry and academia,United States of America,"United States of America,Canada,United States of America",Speech,2013-05-26,2013,True
+Hierarchical Scene Labeling (Stanford Background),New York University (NYU),Academia,United States of America,United States of America,Vision,2013-08-01,2013,True
+RCTM,University of Oxford,Academia,United Kingdom,United Kingdom,Language,2013-10-01,2013,True
+RNTN,Stanford University,Academia,United States of America,United States of America,Language,2013-10-01,2013,True
+Word2Vec (large),Google,Industry,United States of America,United States of America,Language,2013-10-16,2013,True
+Word2Vec (small),Google,Industry,United States of America,United States of America,Language,2013-10-16,2013,False
+R-CNN (T-net),University of California (UC) Berkeley,Academia,United States of America,United States of America,Vision,2013-11-11,2013,False
+Visualizing CNNs,New York University (NYU),Academia,United States of America,United States of America,Vision,2013-11-12,2013,True
+DeViSE,Google,Industry,United States of America,United States of America,Vision,2013-12-05,2013,False
+TransE,Universite de Technologie de Compiègne – CNRS,Industry and academia,France,"France,United States of America",Language,2013-12-05,2013,True
+RNN for 1B words,Google,Industry,United States of America,United States of America,Language,2013-12-11,2013,False
+Network in Network,National University of Singapore,Academia,Singapore,Singapore,Vision,2013-12-16,2013,False
+DQN,DeepMind,Industry,United Kingdom,United Kingdom,Games,2013-12-19,2013,True
+Image generation,University of Amsterdam,Academia,Netherlands,Netherlands,Vision,2013-12-20,2013,True
+OverFeat,New York University (NYU),Academia,United States of America,United States of America,Vision,2013-12-21,2013,False
+GloVe (32B),Stanford University,Academia,United States of America,United States of America,Language,2014-01-01,2014,False
+GloVe (6B),Stanford University,Academia,United States of America,United States of America,Language,2014-01-01,2014,False
+HyperNEAT,University of Texas at Austin,Academia,United States of America,United States of America,Games,2014-03-05,2014,False
+Paragraph Vector,Google,Industry,United States of America,United States of America,Language,2014-05-14,2014,False
+AdaRNN,Beihang University,Academia,China,China,Language,2014-06-01,2014,False
+Dropout: SVHN,University of Toronto,Academia,Canada,Canada,Vision,2014-06-01,2014,False
+GRUs,University of Montreal / Université de Montréal,Academia,Canada,"Canada,Germany,United States of America",Language,2014-06-03,2014,False
+Two-stream ConvNets for action recognition,University of Oxford,Academia,United Kingdom,United Kingdom,Video,2014-06-09,2014,False
+GANs,University of Montreal / Université de Montréal,Academia,Canada,Canada,Image generation,2014-06-10,2014,True
+SPPNet,Microsoft,Industry and academia,United States of America,"United States of America,China,China",Vision,2014-06-18,2014,True
+Fragment embedding,Stanford University,Academia,United States of America,United States of America,Vision,2014-06-21,2014,False
+RNN-WER,DeepMind,Industry and academia,United Kingdom,"United Kingdom,Canada",Speech,2014-06-22,2014,False
+DeepFace,Tel Aviv University,Industry and academia,Israel,"Israel,United States of America",Vision,2014-06-23,2014,False
+Multiresolution CNN,Google,Industry and academia,United States of America,"United States of America,United States of America",Video,2014-06-23,2014,False
+SmooCT,University College London (UCL),Academia,United Kingdom,United Kingdom,Games,2014-07-01,2014,True
+ACF-WIDER,Chinese Academy of Sciences,Academia,China,China,Vision,2014-07-15,2014,True
+NPD,IEEE,Industry,Multinational,Multinational,Vision,2014-08-06,2014,False
+RNNsearch-50*,Jacobs University Bremen,Academia,Germany,"Germany,Canada",Language,2014-09-01,2014,True
+VGG16,University of Oxford,Academia,United Kingdom,United Kingdom,Vision,2014-09-04,2014,True
+VGG19,University of Oxford,Academia,United Kingdom,United Kingdom,Vision,2014-09-04,2014,True
+Seq2Seq LSTM,Google,Industry,United States of America,United States of America,Language,2014-09-10,2014,True
+SPN-4+KN5,Singapore University of Technology & Design,Other or unknown,Singapore,"Singapore,Singapore",Language,2014-09-14,2014,True
+GoogLeNet / InceptionV1,Google,Industry and academia,United States of America,"United States of America,United States of America,United States of America",Vision,2014-09-17,2014,True
+Deeply-supervised nets,Microsoft Research,Industry,United States of America,United States of America,Vision,2014-09-18,2014,False
+Spatially-Sparse CNN,University of Warwick,Academia,United Kingdom,United Kingdom,Vision,2014-09-23,2014,False
+LRCN,UT Austin,Academia,United States of America,"United States of America,United States of America,United States of America",Video,2014-11-07,2014,False
+SC-NLM,University of Toronto,Academia,Canada,Canada,Multimodal,2014-11-10,2014,False
+Fully Convolutional Networks,University of California (UC) Berkeley,Academia,United States of America,United States of America,Vision,2014-11-14,2014,False
+Cascaded LNet-ANet,Chinese University of Hong Kong (CUHK),Academia,Hong Kong,Hong Kong,Vision,2014-11-28,2014,False
+TA-CNN,Chinese University of Hong Kong (CUHK),Academia,Hong Kong,Hong Kong,Vision,2014-11-29,2014,True
+SNM-skip,Google,Industry,United States of America,United States of America,Language,2014-12-03,2014,True
+Fractional Max-Pooling,University of Warwick,Academia,United Kingdom,United Kingdom,Vision,2014-12-18,2014,True
+ADAM (CIFAR-10),University of Amsterdam,Industry and academia,Netherlands,"Netherlands,United States of America,Canada",Vision,2014-12-22,2014,True
+VGG-Face,University of Oxford,Academia,United Kingdom,United Kingdom,Vision,2015-01-01,2015,False
+"MSRA (C, PReLU)",Microsoft Research,Industry,United States of America,United States of America,Vision,2015-02-06,2015,True
+TRPO,University of California (UC) Berkeley,Academia,United States of America,United States of America,Games,2015-02-19,2015,False
+DQN-2015,Google,Industry,United States of America,United States of America,Games,2015-02-25,2015,False
+genCNN + dyn eval,Chinese Academy of Sciences,Industry and academia,China,"China,China,Ireland",Language,2015-03-17,2015,True
+TC-DNN-BLSTM-DNN,Carnegie Mellon University (CMU),Academia,United States of America,United States of America,Speech,2015-04-06,2015,True
+Fast R-CNN,Microsoft Research,Industry,United States of America,United States of America,Vision,2015-04-30,2015,False
+U-Net,University of Freiburg,Academia,Germany,Germany,Vision,2015-05-18,2015,True
+Faster R-CNN,Microsoft Research,Industry,United States of America,United States of America,Vision,2015-06-04,2015,False
+CFSS,SenseTime,Industry and academia,Hong Kong,"Hong Kong,Hong Kong,China",Vision,2015-06-07,2015,False
+YOLO,University of Washington,Industry and academia,United States of America,"United States of America,United States of America,United States of America,France",Vision,2015-06-08,2015,False
+BatchNorm,Google,Industry,United States of America,United States of America,Vision,2015-06-15,2015,False
+CompACT-Deep,University of California San Diego,Academia,United States of America,United States of America,Vision,2015-07-19,2015,False
+Deep CNN + COTS,IEEE,Industry,Multinational,Multinational,Vision,2015-07-26,2015,False
+DCNN,University of Maryland,Academia,United States of America,"United States of America,United States of America",Vision,2015-08-07,2015,True
+BPE,University of Edinburgh,Academia,United Kingdom,United Kingdom,Language,2015-08-31,2015,False
+Deep Deterministic Policy Gradients,Google DeepMind,Industry,United States of America,United States of America,Robotics,2015-09-09,2015,False
+AlphaGo Fan,DeepMind,Industry,United Kingdom,United Kingdom,Games,2015-10-01,2015,True
+SAF R-CNN,Beijing Institute of Technology,Industry and academia,China,"China,China,Singapore,Singapore",Vision,2015-10-28,2015,True
+3DDFA,Chinese Academy of Sciences,Academia,China,"China,United States of America",Vision,2015-11-23,2015,False
+Multi-scale Dilated CNN,Princeton University,Industry and academia,United States of America,"United States of America,United States of America",Vision,2015-11-23,2015,False
+Netflix Recommender System,Netflix,Industry,United States of America,United States of America,Recommendation,2015-12-01,2015,False
+Inception v3,Google,Industry and academia,United States of America,"United States of America,United Kingdom",Vision,2015-12-02,2015,True
+SSD,Unspecified,Other or unknown,Unspecified,Unspecified,Vision,2015-12-08,2015,False
+ResNet-101 (ImageNet),Microsoft,Industry,United States of America,United States of America,Vision,2015-12-10,2015,True
+ResNet-110 (CIFAR-10),Microsoft,Industry,United States of America,United States of America,Vision,2015-12-10,2015,False
+ResNet-152 (ImageNet),Microsoft,Industry,United States of America,United States of America,Vision,2015-12-10,2015,True
+Advantage Learning,Google DeepMind,Industry,United States of America,United States of America,Games,2015-12-15,2015,False
+"Variational (untied weights, MC) LSTM (Large)",University of Cambridge,Academia,United Kingdom,United Kingdom,Language,2015-12-16,2015,True
+AlphaGo Lee,DeepMind,Industry,United Kingdom,United Kingdom,Games,2016-01-27,2016,True
+A3C FF hs,Google,Industry and academia,United States of America,"United States of America,Canada",Games,2016-02-04,2016,False
+Inception-ResNet-V2,Google,Industry,United States of America,United States of America,Vision,2016-02-23,2016,False
+Inceptionv4,Google,Industry,United States of America,United States of America,Vision,2016-02-23,2016,False
+SqueezeNet,DeepScale,Academia,United States of America,"United States of America,United States of America,United States of America",Vision,2016-02-24,2016,False
+Double DQN,Google DeepMind,Industry,United States of America,United States of America,Games,2016-03-02,2016,False
+Named Entity Recognition model,Carnegie Mellon University (CMU),Academia,United States of America,United States of America,Language,2016-03-04,2016,True
+Template Adaptation,University of Oxford,Academia,United Kingdom,United Kingdom,Vision,2016-03-12,2016,False
+Dueling DQN,Google DeepMind,Industry,United States of America,United States of America,Games,2016-04-05,2016,False
+Gated HORNN (3rd order),York University,Academia,Canada,Canada,Language,2016-04-30,2016,False
+LRR-4X,UC Irvine,Academia,United States of America,United States of America,Vision,2016-05-08,2016,False
+PixelCNN,Google DeepMind,Industry,United States of America,United States of America,Vision,2016-06-16,2016,False
+CMS-RCNN,IEEE,Industry,Multinational,Multinational,Vision,2016-06-17,2016,False
+Segmental RNN,University of Edinburgh,Academia,United Kingdom,"United Kingdom,United States of America,United States of America",Speech,2016-06-20,2016,False
+R-FCN,Tsinghua University,Industry and academia,China,"China,United States of America",Vision,2016-06-21,2016,True
+CCL,SenseTime,Industry and academia,Hong Kong,"Hong Kong,Hong Kong,China",Vision,2016-06-27,2016,False
+Character-enriched word2vec,Facebook AI Research,Industry,United States of America,"United States of America,France",Language,2016-07-15,2016,False
+SimpleNet,Sensifai,Industry and academia,Belgium,"Belgium,Iran (Islamic Republic of),France,Iran (Islamic Republic of)",Vision,2016-08-22,2016,False
+DenseNet-264,Tsinghua University,Industry and academia,China,"China,United States of America,France,United States of America",Vision,2016-08-25,2016,False
+LF-MMI,Johns Hopkins University,Academia,United States of America,"United States of America,United States of America",Speech,2016-09-08,2016,False
+MS-ensemble-speech-recognition,Microsoft,Industry,United States of America,United States of America,Speech,2016-09-12,2016,False
+WaveNet,Google DeepMind,Industry,United States of America,United States of America,Speech,2016-09-12,2016,False
+Youtube recommendation model,Google,Industry,United States of America,United States of America,Recommendation,2016-09-15,2016,False
+ResNet-1001,Microsoft,Industry,United States of America,United States of America,Vision,2016-09-17,2016,False
+ResNet-200,Microsoft Research Asia,Industry,China,China,Vision,2016-09-17,2016,True
+Wide Residual Network,Université Paris-Est,Academia,France,France,Vision,2016-09-19,2016,False
+GNMT,Google,Industry,United States of America,United States of America,Language,2016-09-26,2016,True
+Pointer Sentinel-LSTM (medium),MetaMind Inc,Industry,United States of America,"United States of America,United States of America",Language,2016-09-26,2016,True
+Xception,Google,Industry,United States of America,United States of America,Vision,2016-10-07,2016,True
+GAWWN,University of Michigan,Academia,United States of America,"United States of America,Germany",Vision,2016-10-08,2016,False
+SPIDER2,Griffith University,Academia,Australia,"Australia,United States of America,China",Biology,2016-10-28,2016,True
+VD-LSTM+REAL Large,Salesforce Research,Industry and academia,United States of America,"United States of America,United States of America",Language,2016-11-04,2016,True
+BIDAF,University of Washington,Other or unknown,United States of America,"United States of America,United States of America",Language,2016-11-05,2016,True
+NAS with base 8 and shared embeddings,Google Brain,Industry,United States of America,United States of America,Language,2016-11-05,2016,True
+NASv3 (CIFAR-10),Google Brain,Industry,United States of America,United States of America,Vision,2016-11-05,2016,True
+DLDL (PASCAL),University of Oxford,Academia,United Kingdom,United Kingdom,Vision,2016-11-06,2016,False
+DTN (Domain Transfer Network),Facebook AI Research,Industry,United States of America,"United States of America,France",Vision,2016-11-07,2016,False
+DAC-CSR,Jiangnan University,Academia,China,"China,United Kingdom",Vision,2016-11-16,2016,False
+ResNeXt-101 (64×4d),University of California San Diego,Industry and academia,United States of America,"United States of America,United States of America",Vision,2016-11-16,2016,True
+ResNeXt-50,University of California San Diego,Industry and academia,United States of America,"United States of America,United States of America",Vision,2016-11-16,2016,False
+PolyNet,Chinese University of Hong Kong (CUHK),Academia,Hong Kong,Hong Kong,Vision,2016-11-17,2016,True
+Image-to-image cGAN,University of California (UC) Berkeley,Academia,United States of America,United States of America,Vision,2016-11-21,2016,False
+Elastic weight consolidation,DeepMind,Industry,United Kingdom,United Kingdom,Vision,2016-12-02,2016,False
+PointNet,Stanford University,Academia,United States of America,United States of America,3D modeling,2016-12-02,2016,False
+GAN-Advancer,OpenAI,Industry,United States of America,United States of America,Vision,2016-12-05,2016,False
+HR-ResNet101,Carnegie Mellon University (CMU),Academia,United States of America,United States of America,Vision,2016-12-13,2016,True
+3DMM-CNN,University of Southern California,Academia,United States of America,United States of America,Vision,2016-12-15,2016,False
+EnhanceNet,Max Planck Institute for Intelligent Systems,Academia,Germany,Germany,Vision,2016-12-23,2016,True
+YOLOv2,University of Washington,Other or unknown,United States of America,"United States of America,United States of America",Vision,2016-12-25,2016,False
+DeepStack,University of Alberta,Academia,Canada,"Canada,Czechia,Czechia",Games,2017-01-06,2017,True
+OR-WideResNet,Duke University,Academia,United States of America,"United States of America,China",Vision,2017-01-07,2017,False
+MoE-Multi,Jagiellonian University,Industry and academia,Poland,"Poland,United States of America",Language,2017-01-23,2017,True
+DnCNN,Harbin Institute of Technology,Industry and academia,China,"China,Hong Kong,China,China",Vision,2017-02-01,2017,False
+Prototypical networks,University of Toronto,Industry and academia,Canada,"Canada,United States of America",Vision,2017-03-15,2017,False
+Mask R-CNN,Facebook AI Research,Industry,United States of America,"United States of America,France",Vision,2017-03-30,2017,False
+WGAN-GP,Courant Institute of Mathematical Sciences,Academia,United States of America,"United States of America,Canada",Image generation,2017-03-31,2017,False
+MobileNet,Google,Industry,United States of America,United States of America,Vision,2017-04-17,2017,False
+DeepLab (2017),Johns Hopkins University,Industry and academia,United States of America,"United States of America,United States of America,United Kingdom",Vision,2017-04-27,2017,False
+Mnemonic Reader,Fudan University,Industry and academia,China,"China,United States of America",Language,2017-05-08,2017,False
+SRGAN,Twitter,Industry,United States of America,United States of America,Vision,2017-05-25,2017,False
+Inflated 3D ConvNet,DeepMind,Industry and academia,United Kingdom,"United Kingdom,United Kingdom",3D modeling,2017-06-01,2017,False
+PointNet++,Stanford University,Academia,United States of America,United States of America,3D modeling,2017-06-07,2017,False
+Reading Twice for NLU,DeepMind,Industry,United Kingdom,United Kingdom,Language,2017-06-08,2017,False
+EDSR,Seoul National University,Academia,South Korea,South Korea,Vision,2017-06-10,2017,False
+Transformer,Google Research,Industry,United States of America,"United States of America,United States of America",Language,2017-06-12,2017,True
+HRA,Maluuba,Industry,Canada,"Canada,United States of America",Games,2017-06-13,2017,False
+DeepLabV3,Google,Industry,United States of America,United States of America,Vision,2017-06-17,2017,False
+NoisyNet-Dueling,DeepMind,Industry,United Kingdom,United Kingdom,Games,2017-06-30,2017,False
+ShuffleNet v1,Megvii Inc,Industry,China,China,Vision,2017-07-03,2017,False
+DeepLoc,Technical University of Denmark,Academia,Denmark,"Denmark,Denmark",Biology,2017-07-07,2017,True
+JFT,Google Research,Industry and academia,United States of America,"United States of America,United States of America",Vision,2017-07-10,2017,True
+AWD-LSTM,DeepMind,Industry and academia,United Kingdom,"United Kingdom,United Kingdom",Language,2017-07-18,2017,False
+NASNet-A,Google Brain,Industry,United States of America,United States of America,Vision,2017-07-21,2017,False
+PSPNet,Chinese University of Hong Kong (CUHK),Academia,Hong Kong,Hong Kong,Vision,2017-07-21,2017,False
+ConvS2S (ensemble of 8 models),Meta AI,Industry,United States of America,United States of America,Language,2017-07-25,2017,True
+GSM,Peking University,Industry and academia,China,"China,United States of America",Language,2017-07-30,2017,False
+AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (WT2),Salesforce Research,Industry,United States of America,United States of America,Language,2017-08-07,2017,True
+RetinaNet-R101,Facebook AI Research,Industry,United States of America,"United States of America,France",Vision,2017-08-07,2017,True
+RetinaNet-R50,Facebook AI Research,Industry,United States of America,"United States of America,France",Vision,2017-08-07,2017,False
+OpenAI TI7 DOTA 1v1,OpenAI,Industry,United States of America,United States of America,Games,2017-08-11,2017,True
+EI-REHN-1000D,Korea Advanced Institute of Science and Technology (KAIST),Academia,South Korea,South Korea,Language,2017-08-14,2017,True
+NeuMF (Pinterest),Shandong University,Academia,China,"China,United States of America,Singapore,United States of America",Recommendation,2017-08-16,2017,False
+Libratus,Carnegie Mellon University (CMU),Academia,United States of America,United States of America,Games,2017-08-19,2017,True
+GL-LWGC-AWD-MoS-LSTM + dynamic evaluation (WT2),Ben-Gurion University of the Negev,Academia,Israel,Israel,Language,2017-08-29,2017,True
+SENet (ImageNet),Chinese Academy of Sciences,Academia,China,"China,United Kingdom",Vision,2017-09-05,2017,False
+PyramidNet,Korea Advanced Institute of Science and Technology (KAIST),Academia,South Korea,South Korea,Vision,2017-09-06,2017,True
+ISS,Duke University,Industry and academia,United States of America,"United States of America,United States of America",Language,2017-09-15,2017,True
+LSTM + dynamic eval,University of Edinburgh,Academia,United Kingdom,United Kingdom,Language,2017-09-21,2017,False
+AWD-LSTM+WT+Cache+IOG (WT2),NTT Communication Science Laboratories,Industry,Japan,Japan,Language,2017-09-26,2017,True
+Rainbow DQN,DeepMind,Industry,United Kingdom,United Kingdom,Games,2017-10-06,2017,False
+AlphaGo Zero,DeepMind,Industry,United Kingdom,United Kingdom,Games,2017-10-18,2017,True
+AlphaGo Master,DeepMind,Industry,United Kingdom,United Kingdom,Games,2017-10-19,2017,True
+ProgressiveGAN,Nvidia,Industry,United States of America,United States of America,Vision,2017-10-27,2017,False
+PhraseCond,Carnegie Mellon University (CMU),Academia,United States of America,"United States of America,United States of America",Language,2017-10-28,2017,False
+S-Norm,University of Washington,Other or unknown,United States of America,"United States of America,United States of America",Language,2017-10-29,2017,False
+DCN+,Salesforce Research,Industry,United States of America,United States of America,Language,2017-10-31,2017,False
+Fraternal dropout + AWD-LSTM 3-layer (WT2),Jagiellonian University,Academia,Poland,"Poland,Canada,Canada",Language,2017-10-31,2017,True
+VQ-VAE,DeepMind,Industry,United Kingdom,United Kingdom,Vision,2017-11-02,2017,False
+"AWD-LSTM-MoS + dynamic evaluation (WT2, 2017)",Carnegie Mellon University (CMU),Academia,United States of America,United States of America,Language,2017-11-10,2017,True
+TriNet,Visual Computing Institute,Academia,Germany,"Germany,Germany",Video,2017-11-21,2017,False
+DL scaling Image,Baidu,Industry,China,China,Vision,2017-12-01,2017,False
+DL scaling LM,Baidu,Industry,China,China,Language,2017-12-01,2017,False
+DL scaling speech,Baidu,Industry,China,China,Speech,2017-12-01,2017,False
+AlphaZero,DeepMind,Industry,United Kingdom,United Kingdom,Games,2017-12-05,2017,True
+T-DMCA,Google Brain,Industry,United States of America,United States of America,Language,2018-01-30,2018,False
+ELMo,University of Washington,Other or unknown,United States of America,"United States of America,United States of America",Language,2018-02-01,2018,True
+QRNN,Salesforce Research,Industry,United States of America,United States of America,Language,2018-02-01,2018,True
+IMPALA,DeepMind,Industry,United Kingdom,United Kingdom,Games,2018-02-05,2018,True
+DeepLabV3+,Google,Industry,United States of America,United States of America,Vision,2018-02-07,2018,False
+TCN (P-MNIST),Carnegie Mellon University (CMU),Industry and academia,United States of America,"United States of America,United States of America",Vision,2018-02-15,2018,False
+Chinese - English translation,Microsoft,Industry,United States of America,United States of America,Language,2018-03-01,2018,False
+4 layer QRNN (h=2500),Salesforce Research,Industry,United States of America,United States of America,Language,2018-03-22,2018,True
+YOLOv3,University of Washington,Academia,United States of America,United States of America,Vision,2018-04-08,2018,True
+ResNeXt-101 32x48d,Facebook,Industry,United States of America,United States of America,Vision,2018-05-02,2018,True
+Dropout-LSTM+Noise(Bernoulli) (WT2),Columbia University,Academia,United States of America,"United States of America,United States of America,United States of America",Language,2018-05-03,2018,True
+aLSTM(depth-2)+RecurrentPolicy (WT2),University of Manchester,Other or unknown,United Kingdom,"United Kingdom,United Kingdom",Language,2018-05-22,2018,True
+GPT-1,OpenAI,Industry,United States of America,United States of America,Language,2018-06-01,2018,True
+Relational Memory Core,DeepMind,Industry and academia,United Kingdom,"United Kingdom,United Kingdom",Language,2018-06-05,2018,False
+MobileNetV2,Google,Industry,United States of America,United States of America,Vision,2018-06-18,2018,False
+FTW (For The Win),DeepMind,Industry,United Kingdom,United Kingdom,Games,2018-07-03,2018,True
+Big-Little Net,IBM,Industry,United States of America,United States of America,Vision,2018-07-10,2018,True
+Big-Little Net (speech),IBM,Industry,United States of America,United States of America,Speech,2018-07-10,2018,True
+AWD-LSTM-MoS+PDR + dynamic evaluation (WT2),IBM,Industry,United States of America,United States of America,Language,2018-08-14,2018,False
+Big Transformer for Back-Translation,Facebook AI Research,Industry,United States of America,"United States of America,France,United States of America",Language,2018-08-28,2018,True
+(ensemble): AWD-LSTM-DOC (fin) × 5 (WT2),NTT Communication Science Laboratories,Industry and academia,Japan,"Japan,Japan",Language,2018-08-30,2018,True
+NetSurfP-2.0,Technical University of Denmark,Academia,Denmark,"Denmark,Denmark,Argentina,Malaysia",Biology,2018-09-10,2018,False
+Transformer + Simple Recurrent Unit,ASAPP,Industry and academia,United States of America,"United States of America,United States of America,United States of America,United States of America",Language,2018-09-17,2018,True
+"AWD-LSTM-MoS + dynamic evaluation (WT2, 2018)",Peking University,Industry and academia,China,"China,China",Language,2018-09-18,2018,False
+LSTM+NeuralCache,KU Leuven,Industry and academia,Belgium,"Belgium,Belgium,United States of America",Language,2018-09-24,2018,True
+Transformer (Adaptive Input Embeddings) WT103,Facebook AI Research,Industry,United States of America,"United States of America,France",Language,2018-09-28,2018,True
+BERT-Large,Google,Industry,United States of America,United States of America,Language,2018-10-11,2018,True
+MetaMimic,Google,Industry,United States of America,United States of America,Robotics,2018-10-11,2018,False
+TrellisNet,Carnegie Mellon University (CMU),Industry and academia,United States of America,"United States of America,Germany,United States of America",Language,2018-10-15,2018,True
+MemoReader,Samsung,Industry and academia,South Korea,"South Korea,South Korea",Language,2018-10-31,2018,False
+Mesh-TensorFlow Transformer 2.9B (translation),Google Brain,Industry,United States of America,United States of America,Language,2018-11-05,2018,True
+Mesh-TensorFlow Transformer 4.9B (language),Google Brain,Industry,United States of America,United States of America,Language,2018-11-05,2018,True
+Fine-tuned-AWD-LSTM-DOC (fin),Samsung R&D Institute Russia,Industry,Russia,Russia,Language,2018-11-12,2018,True
+Multi-cell LSTM,University of Hyderabad,Academia,India,India,Language,2018-11-15,2018,True
+GPipe (Transformer),Google,Industry,United States of America,United States of America,Language,2018-11-16,2018,False
+SPN (ImageNet 128),Google Brain,Industry,United States of America,"United States of America,United Kingdom",Image generation,2018-12-04,2018,False
+StyleGAN,Nvidia,Industry,United States of America,United States of America,Image generation,2018-12-12,2018,True
+Transformer ELMo,Allen Institute for AI,Other or unknown,United States of America,"United States of America,United States of America",Language,2019-01-01,2019,False
+Transformer-XL (257M),Carnegie Mellon University (CMU),Industry and academia,United States of America,"United States of America,United States of America",Language,2019-01-09,2019,True
+MT-DNN,Microsoft,Industry,United States of America,United States of America,Language,2019-01-31,2019,False
+Hanabi 4 player,DeepMind,Industry and academia,United Kingdom,"United Kingdom,United Kingdom,United States of America,United States of America",Games,2019-02-01,2019,True
+SDE,Carnegie Mellon University (CMU),Industry and academia,United States of America,"United States of America,United States of America,Australia",Language,2019-02-09,2019,False
+GPT-2 (1.5B),OpenAI,Industry,United States of America,United States of America,Language,2019-02-14,2019,True
+KataGo,Jane Street,Industry,United States of America,United States of America,Games,2019-02-27,2019,True
+NMT Transformer 437M,Google,Industry and academia,United States of America,"United States of America,Israel",Language,2019-02-28,2019,False
+SciBERT,Allen Institute for AI,Other or unknown,United States of America,United States of America,Language,2019-03-26,2019,True
+Cross-lingual alignment,Tel Aviv University,Academia,Israel,"Israel,United States of America",Language,2019-04-04,2019,True
+True-Regularization+Finetune+Dynamic-Eval,Mobvoi,Industry and academia,China,"China,United States of America",Language,2019-04-08,2019,False
+WeNet (Penn Treebank),Amazon,Industry,United States of America,United States of America,Language,2019-04-08,2019,True
+Transformer-XL + RMS dynamic eval,University of Edinburgh,Academia,United Kingdom,United Kingdom,Language,2019-04-17,2019,False
+BERT-Large-CAS (PTB+WT2+WT103),Amazon,Industry,United States of America,United States of America,Language,2019-04-20,2019,True
+MuseNet,OpenAI,Industry,United States of America,United States of America,Audio,2019-04-25,2019,True
+Neuro-Symbolic Concept Learner,Massachusetts Institute of Technology (MIT),Industry and academia,United States of America,"United States of America,China,United States of America,United Kingdom",Vision,2019-04-26,2019,False
+RaptorX-Contact,Toyota Technological Institute at Chicago,Academia,United States of America,United States of America,Biology,2019-05-02,2019,False
+ResNeXt-101 Billion-scale,Facebook AI,Industry,United States of America,United States of America,Vision,2019-05-02,2019,False
+AWD-LSTM-DRILL + dynamic evaluation† (WT2),IDIAP,Academia,Switzerland,Switzerland,Language,2019-05-14,2019,True
+CPC v2,DeepMind,Industry and academia,United Kingdom,"United Kingdom,United States of America",Vision,2019-05-22,2019,False
+EfficientNet-L2,Google,Industry,United States of America,United States of America,Vision,2019-05-28,2019,False
+DLRM-2020,Facebook AI,Industry,United States of America,United States of America,Recommendation,2019-05-31,2019,True
+XLM,Facebook,Industry,United States of America,United States of America,Language,2019-06-01,2019,False
+XLNet,Carnegie Mellon University (CMU),Industry and academia,United States of America,"United States of America,United States of America",Language,2019-06-01,2019,True
+Transformer-XL Large + Phrase Induction,Massachusetts Institute of Technology (MIT),Academia,United States of America,"United States of America,United States of America",Language,2019-06-04,2019,True
+AWD-LSTM + MoS + Partial Shuffled,University of Texas at Austin,Academia,United States of America,United States of America,Language,2019-06-10,2019,True
+Char-CNN-BiLSTM,Capital One,Industry,United States of America,United States of America,Language,2019-06-13,2019,False
+FixRes ResNeXt-101 WSL,Facebook AI,Industry,United States of America,United States of America,Vision,2019-06-14,2019,False
+PG-SWGAN,ETH Zurich,Academia,Switzerland,Switzerland,Image generation,2019-06-15,2019,False
+LaNet-L (CIFAR-10),Brown University,Industry and academia,United States of America,"United States of America,United States of America",Vision,2019-06-17,2019,False
+Walking Minotaur robot,University of California (UC) Berkeley,Industry and academia,United States of America,"United States of America,United States of America",Robotics,2019-06-19,2019,False
+RoBERTa Large,Facebook,Industry and academia,United States of America,"United States of America,United States of America",Language,2019-07-01,2019,True
+BigBiGAN,Google,Industry,United States of America,United States of America,Vision,2019-07-04,2019,False
+Pluribus,Facebook AI Research,Industry,United States of America,"United States of America,France",Games,2019-07-11,2019,True
+EN^2AS with performance reward,Beijing Institute of Technology,Academia,China,"China,Australia,Australia",Language,2019-07-22,2019,False
+trRosetta,Nankai University,Academia,China,"China,United States of America,China,United States of America",Biology,2019-08-22,2019,True
+"Mogrifier (d2, MoS2, MC) + dynamic eval",DeepMind,Industry and academia,United Kingdom,"United Kingdom,United Kingdom",Language,2019-09-04,2019,False
+UDSMProt,Fraunhofer Heinrich Hertz Institute,Other or unknown,Germany,Germany,Biology,2019-09-04,2019,True
+Megatron-BERT,Nvidia,Industry,United States of America,United States of America,Language,2019-09-17,2019,True
+Megatron-LM (1.2B),Nvidia,Industry,United States of America,United States of America,Language,2019-09-17,2019,True
+Megatron-LM (8.3B),Nvidia,Industry,United States of America,United States of America,Language,2019-09-17,2019,True
+Adaptive Inputs + LayerDrop,Facebook AI Research,Industry and academia,United States of America,"United States of America,France,France",Language,2019-09-25,2019,False
+ALBERT,Toyota Technological Institute at Chicago,Industry and academia,United States of America,"United States of America,United States of America",Language,2019-09-26,2019,False
+AlphaX-1,Facebook AI Research,Industry and academia,United States of America,"United States of America,France,United States of America",Vision,2019-10-02,2019,True
+DistilBERT,Hugging Face,Industry,United States of America,United States of America,Language,2019-10-02,2019,True
+M4-50B,Google,Industry,United States of America,United States of America,Language,2019-10-11,2019,False
+T5-11B,Google,Industry,United States of America,United States of America,Language,2019-10-23,2019,True
+T5-3B,Google,Industry,United States of America,United States of America,Language,2019-10-23,2019,True
+BART-large,Facebook AI,Industry,United States of America,United States of America,Language,2019-10-29,2019,False
+AlphaStar,DeepMind,Industry,United Kingdom,United Kingdom,Games,2019-10-30,2019,True
+Base LM + kNN LM + Continuous Cache,Stanford University,Industry and academia,United States of America,"United States of America,United States of America,France",Language,2019-11-01,2019,True
+XLM-RoBERTa,Facebook AI,Industry,United States of America,United States of America,Language,2019-11-05,2019,True
+CamemBERT,Facebook,Industry and academia,United States of America,"United States of America,France,France",Language,2019-11-10,2019,True
+Sandwich Transformer,Allen Institute for AI,Other or unknown,United States of America,"United States of America,United States of America,France",Language,2019-11-10,2019,True
+Noisy Student (L2),Carnegie Mellon University (CMU),Industry and academia,United States of America,"United States of America,United States of America",Vision,2019-11-11,2019,True
+MoCo,Facebook AI,Industry,United States of America,United States of America,Vision,2019-11-13,2019,False
+MuZero,DeepMind,Industry,United Kingdom,United Kingdom,Games,2019-11-19,2019,True
+Transformer - LibriVox + Decoding/Rescoring,Facebook,Industry,United States of America,United States of America,Speech,2019-11-19,2019,False
+Photo-Geometric Autoencoder,University of Oxford,Academia,United Kingdom,United Kingdom,3D modeling,2019-11-25,2019,False
+Transformer-XL DeFINE (141M),University of Washington,Other or unknown,United States of America,"United States of America,United States of America",Language,2019-11-27,2019,True
+StyleGAN2,Nvidia,Industry and academia,United States of America,"United States of America,Finland",Image generation,2019-12-03,2019,False
+StarGAN v2,NAVER,Industry and academia,South Korea,"South Korea,South Korea,Switzerland",Vision,2019-12-04,2019,False
+MMLSTM (PTB),Beijing University of Posts and Telecommunications,Academia,China,"China,United Kingdom",Language,2019-12-05,2019,True
+MMLSTM (WT-2),Beijing University of Posts and Telecommunications,Academia,China,"China,United Kingdom",Language,2019-12-05,2019,True
+OpenAI Five,OpenAI,Industry,United States of America,United States of America,Games,2019-12-13,2019,True
+OpenAI Five Rerun,OpenAI,Industry,United States of America,United States of America,Games,2019-12-13,2019,True
+DD-PPO,Georgia Institute of Technology,Industry and academia,United States of America,"United States of America,United States of America,France,United States of America,Canada",Robotics,2019-12-19,2019,True
+Big Transfer (BiT-L),Google Brain,Industry,United States of America,United States of America,Vision,2019-12-24,2019,False
+AlphaFold,DeepMind,Industry,United Kingdom,United Kingdom,Biology,2020-01-15,2020,True
+ContextNet + Noisy Student,Google,Industry,United States of America,United States of America,Speech,2020-01-19,2020,True
+Meena,Google Brain,Industry,United States of America,United States of America,Language,2020-01-28,2020,True
+Theseus 6/768,University of California San Diego,Industry and academia,United States of America,"United States of America,China,United States of America",Language,2020-02-07,2020,False
+Perceiver IO (optical flow),DeepMind,Industry,United Kingdom,United Kingdom,Multimodal,2020-02-08,2020,False
+TaLK Convolution,Carleton University,Academia,Canada,Canada,Language,2020-02-08,2020,True
+ALBERT-xxlarge,Toyota Technological Institute at Chicago,Industry and academia,United States of America,"United States of America,United States of America",Language,2020-02-09,2020,True
+SimCLR,Google Brain,Industry,United States of America,United States of America,Vision,2020-02-13,2020,False
+Turing-NLG,Microsoft,Industry,United States of America,United States of America,Language,2020-02-13,2020,True
+FFN SwiGLU,Google,Industry,United States of America,United States of America,Language,2020-02-14,2020,True
+Feedback Transformer,LORIA,Industry and academia,France,"France,France,United States of America,France",Language,2020-02-21,2020,True
+TCAN (WT2),Nanjing University,Industry and academia,China,"China,China",Language,2020-02-28,2020,False
+TransformerXL + spectrum control,University of California Los Angeles (UCLA),Industry and academia,United States of America,"United States of America,China",Language,2020-03-11,2020,True
+Routing Transformer (WT-103),Google Research,Industry,United States of America,United States of America,Language,2020-03-12,2020,False
+Tensor-Transformer(1core)+PN (WT103),University of California (UC) Berkeley,Academia,United States of America,United States of America,Language,2020-03-17,2020,True
+ELECTRA,Stanford University,Industry and academia,United States of America,"United States of America,United States of America,United States of America",Language,2020-03-23,2020,True
+MetNet,Google,Industry,United States of America,United States of America,Earth science,2020-03-24,2020,True
+Agent57,DeepMind,Industry,United Kingdom,United Kingdom,Games,2020-03-30,2020,False
+CURL,University of California (UC) Berkeley,Academia,United States of America,United States of America,Games,2020-04-08,2020,False
+Go-explore,Uber AI,Industry,United States of America,"United States of America,United States of America",Games,2020-04-27,2020,False
+Once for All,MIT-IBM Watson AI Lab,Industry and academia,United States of America,"United States of America,United States of America,United States of America",Vision,2020-04-29,2020,True
+UnifiedQA,Allen Institute for AI,Other or unknown,United States of America,"United States of America,United States of America",Language,2020-05-02,2020,True
+NAS+ESS (23M),Northeastern University (China),Industry and academia,China,"China,China,China",Language,2020-05-06,2020,False
+ContextNet,Google,Industry,United States of America,United States of America,Speech,2020-05-07,2020,False
+Conformer,Google,Industry,United States of America,United States of America,Speech,2020-05-16,2020,False
+Retrieval-Augmented Generator,Facebook,Industry and academia,United States of America,"United States of America,United States of America,United Kingdom",Language,2020-05-22,2020,False
+DETR,Facebook,Industry,United States of America,United States of America,Vision,2020-05-26,2020,True
+GPT-3 175B (davinci),OpenAI,Industry,United States of America,United States of America,Language,2020-05-28,2020,True
+GShard (dense),Google,Industry,United States of America,United States of America,Language,2020-06-30,2020,True
+SemExp,Carnegie Mellon University (CMU),Industry and academia,United States of America,"United States of America,United States of America,France",Robotics,2020-07-02,2020,False
+Hopfield Networks (2020),Johannes Kepler University Linz,Academia,Austria,"Austria,Austria,Norway",Biology,2020-07-16,2020,False
+EfficientDet,Google Brain,Industry,United States of America,United States of America,Vision,2020-07-27,2020,False
+DeLighT,University of Washington,Industry and academia,United States of America,"United States of America,United States of America,United States of America,France",Language,2020-08-03,2020,True
+ERNIE-GEN (large),Baidu,Industry,China,China,Language,2020-08-06,2020,True
+ProBERTa,University of Illinois Urbana-Champaign (UIUC),Academia,United States of America,"United States of America,United States of America",Biology,2020-09-01,2020,True
+LUKE,University of Washington,Academia,United States of America,"United States of America,Japan",Language,2020-10-02,2020,True
+Conformer + Wav2vec 2.0 + Noisy Student,Google,Industry,United States of America,"United States of America,United States of America,United States of America",Speech,2020-10-20,2020,True
+mT5-XXL,Google,Industry,United States of America,"United States of America,United States of America",Language,2020-10-20,2020,True
+German ELECTRA Large,deepset,Other or unknown,Germany,"Germany,Germany",Language,2020-10-21,2020,True
+ViT-Base/32,Google Brain,Industry,United States of America,United States of America,Vision,2020-10-22,2020,False
+ViT-Huge/14,Google Brain,Industry,United States of America,"United States of America,United States of America",Vision,2020-10-22,2020,True
+wave2vec 2.0 LARGE,Facebook,Industry,United States of America,United States of America,Speech,2020-10-22,2020,True
+KEPLER,Tsinghua University,Other or unknown,China,"China,Canada,France,Canada,United States of America,Canada",Language,2020-11-23,2020,True
+AlphaFold 2,DeepMind,Industry,United Kingdom,United Kingdom,Biology,2020-11-30,2020,True
+CPM-Large,Tsinghua University,Academia,China,"China,China",Language,2020-12-01,2020,True
+ESM1b,Facebook AI Research,Industry and academia,United States of America,"United States of America,France,United States of America",Biology,2020-12-15,2020,True
+VQGAN + CLIP,Heidelberg University,Academia,Germany,Germany,Image generation,2020-12-17,2020,False
+DensePhrases,Korea University,Academia,South Korea,"South Korea,United States of America",Language,2020-12-23,2020,True
+CT-MoS (WT2),Google,Industry and academia,United States of America,"United States of America,Taiwan",Language,2020-12-25,2020,True
+ERNIE-Doc (247M),Baidu,Industry,China,China,Language,2020-12-31,2020,True
+CLIP (ResNet-50),OpenAI,Industry,United States of America,United States of America,Multimodal,2021-01-05,2021,False
+CLIP (ViT L/14@336px),OpenAI,Industry,United States of America,United States of America,Multimodal,2021-01-05,2021,True
+DALL-E,OpenAI,Industry,United States of America,United States of America,Image generation,2021-01-05,2021,True
+BigSSL,Google,Industry,United States of America,"United States of America,United States of America",Speech,2021-01-10,2021,False
+Switch,Google,Industry,United States of America,United States of America,Language,2021-01-11,2021,True
+DeiT-B,Meta AI,Industry and academia,United States of America,"United States of America,France",Vision,2021-01-15,2021,True
+DLWP,University of Washington,Industry and academia,United States of America,"United States of America,United States of America",Earth science,2021-02-09,2021,True
+top-down frozen classifier,University of Edinburgh,Industry and academia,United Kingdom,"United Kingdom,United Kingdom",Speech,2021-02-09,2021,False
+MSA Transformer,Facebook AI Research,Industry and academia,United States of America,"United States of America,France,United States of America,United States of America",Biology,2021-02-13,2021,True
+Rational DQN Average,TU Darmstadt,Academia,Germany,Germany,Games,2021-02-18,2021,False
+SRU++ Large,ASAPP,Industry,United States of America,United States of America,Language,2021-02-24,2021,True
+Meta Pseudo Labels,Google Brain,Industry,United States of America,"United States of America,United States of America",Vision,2021-03-01,2021,True
+Generative BST,Facebook AI Research,Industry,United States of America,"United States of America,France",Language,2021-03-05,2021,True
+M6-T,Alibaba,Industry,China,China,Multimodal,2021-03-05,2021,True
+Unicorn,Allen Institute for AI,Other or unknown,United States of America,United States of America,Language,2021-03-24,2021,False
+PLUG,Alibaba,Industry,China,China,Language,2021-04-19,2021,True
+ProtBERT-BFD,Technical University of Munich,Industry and academia,Germany,"Germany,United States of America,South Korea,United States of America,United States of America,China",Biology,2021-05-04,2021,True
+ProtT5-XL-U50,Technical University of Munich,Industry and academia,Germany,"Germany,China,United States of America,United States of America,United States of America,South Korea",Biology,2021-05-04,2021,True
+ADM,OpenAI,Industry,United States of America,United States of America,Image generation,2021-05-11,2021,True
+MedBERT,Peng Cheng Laboratory,Academia,China,"China,United States of America",Medicine,2021-05-20,2021,True
+CogView,Tsinghua University,Industry and academia,China,"China,China",Image generation,2021-05-26,2021,True
+Transformer local-attention (NesT-B),Google Cloud,Industry,United States of America,"United States of America,United States of America",Vision,2021-05-26,2021,True
+ByT5-XXL,Google,Industry,United States of America,"United States of America,United States of America",Language,2021-05-28,2021,True
+ViT-G/14,Google Brain,Industry,United States of America,"United States of America,United States of America",Vision,2021-06-08,2021,True
+CoAtNet,Google,Industry,United States of America,"United States of America,United States of America,United States of America",Vision,2021-06-09,2021,True
+EMDR,Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Industry and academia,Canada,"Canada,Canada,United Kingdom",Language,2021-06-09,2021,True
+DeBERTa,Microsoft,Industry,United States of America,United States of America,Language,2021-06-10,2021,True
+ALIGN,Google Research,Industry,United States of America,United States of America,Multimodal,2021-06-11,2021,True
+Denoising Diffusion Probabilistic Models (LSUN Bedroom),University of California (UC) Berkeley,Academia,United States of America,United States of America,Vision,2021-06-11,2021,True
+StyleGAN3-R,Nvidia,Industry and academia,United States of America,"United States of America,Finland",Image generation,2021-06-21,2021,True
+StyleGAN3-T,Nvidia,Industry and academia,United States of America,"United States of America,Finland",Image generation,2021-06-21,2021,True
+EfficientNetV2-XL,Google,Industry,United States of America,"United States of America,United States of America",Vision,2021-06-23,2021,True
+Fold2Seq,IBM,Industry and academia,United States of America,"United States of America,United States of America",Biology,2021-06-24,2021,True
+Adaptive Input Transformer + RD,Microsoft Research Asia,Industry and academia,China,"China,Taiwan",Language,2021-06-28,2021,True
+ERNIE 3.0,Baidu,Industry,China,China,Language,2021-07-05,2021,True
+Codex,OpenAI,Industry,United States of America,United States of America,Language,2021-07-07,2021,True
+GOAT,DeepMind,Industry,United Kingdom,United Kingdom,Games,2021-07-27,2021,True
+HuBERT,Facebook AI Research,Industry,United States of America,"United States of America,France",Speech,2021-07-27,2021,True
+SEER,Facebook AI Research,Industry and academia,United States of America,"United States of America,France,France",Vision,2021-07-29,2021,True
+6-Act Tether,Facebook AI Research,Industry and academia,United States of America,"United States of America,France,United States of America",Robotics,2021-08-03,2021,False
+YOLOX-X,Megvii Inc,Industry,China,China,Vision,2021-08-06,2021,True
+W2v-BERT,Google Brain,Industry and academia,United States of America,"United States of America,United States of America",Speech,2021-08-07,2021,False
+Jurassic-1-Jumbo,AI21 Labs,Industry,Israel,Israel,Language,2021-08-11,2021,True
+Zidong Taichu,Chinese Academy of Sciences,Other or unknown,China,"China,China",Multimodal,2021-08-11,2021,True
+DNABERT,Northeastern University,Academia,United States of America,United States of America,Biology,2021-08-15,2021,True
+XLMR-XXL,Facebook AI Research,Industry,United States of America,"United States of America,France",Language,2021-08-17,2021,True
+FLAN 137B,Google Research,Industry,United States of America,United States of America,Language,2021-09-03,2021,True
+MEB,Microsoft,Industry,United States of America,United States of America,Search,2021-09-04,2021,False
+PermuteFormer,Peking University,Academia,China,China,Language,2021-09-06,2021,True
+HyperCLOVA 204B,NAVER,Industry,South Korea,South Korea,Language,2021-09-10,2021,True
+PLATO-XL,Baidu,Industry,China,China,Language,2021-09-20,2021,True
+TrOCR,Beihang University,Industry and academia,China,"China,China",Vision,2021-09-21,2021,False
+Turing ULRv5,Microsoft,Industry,United States of America,United States of America,Language,2021-09-28,2021,True
+AlphaFold-Multimer,Google DeepMind,Industry,United States of America,"United States of America,United Kingdom",Biology,2021-10-04,2021,True
+Megatron-Turing NLG 530B,Microsoft,Industry,United States of America,"United States of America,United States of America",Language,2021-10-11,2021,True
+Yuan 1.0,Inspur,Industry,China,China,Language,2021-10-12,2021,True
+base LM+GNN+kNN,Shannon.AI,Industry and academia,China,"China,China,Singapore,China",Language,2021-10-17,2021,True
+Eve,Harvard Medical School,Academia,United States of America,"United States of America,United Kingdom",Biology,2021-10-27,2021,False
+EfficientZero,Tsinghua University,Academia,China,"China,United States of America,China",Games,2021-10-30,2021,False
+S4,Stanford University,Academia,United States of America,United States of America,Language,2021-10-31,2021,True
+CodeT5-base,Salesforce,Industry and academia,United States of America,"United States of America,Singapore",Language,2021-11-01,2021,True
+Projected GAN,Heidelberg University,Academia,Germany,Germany,Image generation,2021-11-01,2021,True
+Masked Autoencoders ViT-H,Facebook AI Research,Industry,United States of America,"United States of America,France",Vision,2021-11-11,2021,True
+ViT-G/14 (LiT),Google Research,Industry,United States of America,United States of America,Vision,2021-11-15,2021,False
+AliceMind-MMU,Alibaba,Industry,China,China,Unspecified,2021-11-17,2021,False
+Swin Transformer V2 (SwinV2-G),Microsoft Research Asia,Industry,China,China,Vision,2021-11-18,2021,True
+BASIC-L,Google,Industry,United States of America,United States of America,Vision,2021-11-19,2021,True
+Florence,Microsoft,Industry,United States of America,United States of America,Vision,2021-11-22,2021,True
+NÜWA,Microsoft Research,Industry and academia,United States of America,"United States of America,China",Multimodal,2021-11-24,2021,True
+T-NLRv5 XXL,Microsoft,Industry,United States of America,United States of America,Language,2021-12-03,2021,False
+Student of Games,DeepMind,Industry,United Kingdom,United Kingdom,Games,2021-12-06,2021,True
+Gopher (280B),DeepMind,Industry,United Kingdom,United Kingdom,Language,2021-12-08,2021,True
+GLaM,Google,Industry,United States of America,United States of America,Language,2021-12-13,2021,True
+LongT5,Google Research,Industry,United States of America,United States of America,Language,2021-12-15,2021,False
+Contriever,Meta AI,Industry and academia,United States of America,"United States of America,United Kingdom,France,France",Language,2021-12-16,2021,True
+LDM-1.45B,Heidelberg University,Industry and academia,Germany,"Germany,United States of America",Image generation,2021-12-20,2021,False
+XGLM-7.5B,Meta AI,Industry,United States of America,"United States of America,United States of America,France",Language,2021-12-20,2021,True
+ERNIE 3.0 Titan,Baidu,Industry and academia,China,"China,China",Language,2021-12-23,2021,True
+ERNIE-ViLG,Baidu,Industry,China,China,Multimodal,2021-12-31,2021,False
+Detic,Meta AI,Industry and academia,United States of America,"United States of America,United States of America",Vision,2022-01-07,2022,True
+data2vec (language),Meta AI,Industry,United States of America,United States of America,Language,2022-01-20,2022,False
+data2vec (speech),Meta AI,Industry,United States of America,United States of America,Speech,2022-01-20,2022,False
+data2vec (vision),Meta AI,Industry,United States of America,United States of America,Vision,2022-01-20,2022,False
+AbLang (heavy sequences),University of Oxford,Academia,United Kingdom,United Kingdom,Biology,2022-01-22,2022,False
+OntoProtein,Zhejiang University (ZJU),Academia,China,China,Biology,2022-01-23,2022,False
+InstructGPT 1.3B,OpenAI,Industry,United States of America,United States of America,Language,2022-01-27,2022,False
+InstructGPT 175B,OpenAI,Industry,United States of America,United States of America,Language,2022-01-27,2022,True
+InstructGPT 6B,OpenAI,Industry,United States of America,United States of America,Language,2022-01-27,2022,False
+AlphaCode,DeepMind,Industry,United Kingdom,United Kingdom,Language,2022-02-02,2022,True
+RETRO-7B,DeepMind,Industry,United Kingdom,United Kingdom,Language,2022-02-07,2022,True
+MaskGIT (ImageNet),Google Research,Industry,United States of America,United States of America,Image generation,2022-02-08,2022,False
+GPT-NeoX-20B,EleutherAI,Other or unknown,United States of America,United States of America,Language,2022-02-09,2022,True
+LaMDA,Google,Industry,United States of America,United States of America,Language,2022-02-10,2022,True
+ProteinBERT,Hebrew University of Jerusalem,Industry and academia,Israel,"Israel,Israel,United States of America",Biology,2022-02-10,2022,True
+Midjourney V1,Midjourney,Industry,United States of America,United States of America,Image generation,2022-02-15,2022,False
+ST-MoE,Google,Industry,United States of America,"United States of America,United States of America,United States of America",Language,2022-02-17,2022,True
+FourCastNet,Nvidia,Industry and academia,United States of America,"United States of America,United States of America,United States of America,United States of America,United States of America,United States of America",Earth science,2022-02-22,2022,True
+PolyCoder,Carnegie Mellon University (CMU),Academia,United States of America,United States of America,Language,2022-02-26,2022,True
+DeepNet,Microsoft Research,Industry,United States of America,United States of America,Language,2022-03-01,2022,False
+Statement Curriculum Learning,OpenAI,Industry,United States of America,United States of America,Language,2022-03-02,2022,True
+MegaSyn,Collaborations Pharmaceuticals,Industry,United States of America,United States of America,Medicine,2022-03-07,2022,False
+ViT-G (model soup),University of Washington,Industry and academia,United States of America,"United States of America,United States of America,United States of America,United States of America,Israel",Vision,2022-03-10,2022,True
+GPT-3.5 (davinci-002),OpenAI,Industry,United States of America,United States of America,Language,2022-03-15,2022,True
+"Segatron-XL large, M=384 + HCP",Microsoft Research,Industry and academia,United States of America,"United States of America,Canada",Language,2022-03-21,2022,True
+Make-A-Scene,Meta AI,Industry,United States of America,United States of America,Image generation,2022-03-24,2022,True
+Chinchilla,DeepMind,Industry,United Kingdom,United Kingdom,Language,2022-03-29,2022,True
+PaLM (540B),Google Research,Industry,United States of America,United States of America,Language,2022-04-04,2022,True
+DALL·E 2,OpenAI,Industry,United States of America,United States of America,Image generation,2022-04-06,2022,True
+BERT-RBP,Waseda University,Academia,Japan,Japan,Biology,2022-04-07,2022,True
+Stable Diffusion (LDM-KL-8-G),Runway,Industry and academia,United States of America,"United States of America,Germany,Germany",Image generation,2022-04-13,2022,True
+Sparse all-MLP,Meta AI,Industry,United States of America,United States of America,Language,2022-04-14,2022,True
+XMC-GAN,Google Research,Industry,United States of America,United States of America,Image generation,2022-04-14,2022,False
+Flamingo,DeepMind,Industry,United Kingdom,United Kingdom,Multimodal,2022-04-29,2022,True
+OPT-175B,Meta AI,Industry,United States of America,United States of America,Language,2022-05-02,2022,True
+DeBERTaV3large + KEAR,Microsoft,Industry,United States of America,United States of America,Language,2022-05-04,2022,False
+UL2,Google Research,Industry,United States of America,"United States of America,United States of America",Language,2022-05-10,2022,True
+Gato,DeepMind,Industry,United Kingdom,United Kingdom,Multimodal,2022-05-12,2022,True
+SimCSE,Princeton University,Academia,United States of America,"United States of America,China",Language,2022-05-18,2022,False
+Imagen,Google Brain,Industry,United States of America,United States of America,Image generation,2022-05-23,2022,True
+GPT-2 Medium (FlashAttention),Stanford University,Academia,United States of America,"United States of America,United States of America",Language,2022-05-27,2022,True
+Tranception,University of Oxford,Industry and academia,United Kingdom,"United Kingdom,United States of America,Canada",Biology,2022-05-27,2022,True
+CogVideo,Tsinghua University,Academia,China,"China,China",Video,2022-05-29,2022,False
+Diffusion-GAN,UT Austin,Industry and academia,United States of America,"United States of America,United States of America",Image generation,2022-06-05,2022,False
+DITTO,Tsinghua University,Industry and academia,China,"China,United States of America,China,Hong Kong",Language,2022-06-06,2022,True
+MetaLM,Microsoft Research,Industry,United States of America,United States of America,Multimodal,2022-06-13,2022,False
+CoCa,Google Research,Industry,United States of America,United States of America,Vision,2022-06-14,2022,True
+Parti,Google Research,Industry,United States of America,United States of America,Image generation,2022-06-22,2022,True
+ProGen2-xlarge,Salesforce Research,Industry and academia,United States of America,"United States of America,United States of America,United States of America",Biology,2022-06-27,2022,True
+Minerva (540B),Google,Industry,United States of America,United States of America,Language,2022-06-29,2022,True
+CodeT5-large,Salesforce,Industry,United States of America,United States of America,Language,2022-07-05,2022,True
+NLLB,Meta AI,Industry,United States of America,United States of America,Language,2022-07-06,2022,True
+BLOOM-176B,Hugging Face,Other or unknown,United States of America,"United States of America,France",Language,2022-07-11,2022,True
+ESM2-15B,Meta AI,Industry and academia,United States of America,"United States of America,United States of America,United States of America,United States of America",Biology,2022-07-21,2022,True
+OmegaPLM,Massachusetts Institute of Technology (MIT),Academia,United States of America,"United States of America,China",Biology,2022-07-22,2022,True
+AlexaTM 20B,Amazon,Industry,United States of America,United States of America,Language,2022-08-02,2022,True
+GLM-130B,Tsinghua University,Academia,China,China,Language,2022-08-04,2022,True
+BlenderBot 3,McGill University,Industry and academia,Canada,"Canada,United States of America,Canada",Language,2022-08-10,2022,True
+BEIT-3,Microsoft,Industry,United States of America,United States of America,Multimodal,2022-08-22,2022,True
+PaLI,Google,Industry,United States of America,United States of America,Language,2022-09-14,2022,True
+SauTech,Saudi Data and Artificial Intelligence Authority,Other or unknown,Saudi Arabia,"Saudi Arabia,Saudi Arabia",Speech,2022-09-14,2022,False
+Whisper,OpenAI,Industry,United States of America,United States of America,Speech,2022-09-21,2022,True
+Make-A-Video,Meta AI,Industry,United States of America,United States of America,Video,2022-09-29,2022,False
+DiffDock,Massachusetts Institute of Technology (MIT),Academia,United States of America,United States of America,Biology,2022-10-04,2022,True
+AlphaTensor,DeepMind,Industry,United Kingdom,United Kingdom,Other,2022-10-05,2022,True
+Phenaki,University College London (UCL),Industry and academia,United Kingdom,"United Kingdom,United States of America,United States of America",Video,2022-10-05,2022,False
+Diplodocus,Meta AI,Industry and academia,United States of America,"United States of America,United States of America",Games,2022-10-11,2022,False
+GenSLM,University of Chicago,Industry and academia,United States of America,"United States of America,United States of America,United States of America,United States of America,Germany,United States of America",Biology,2022-10-11,2022,True
+Flan-PaLM 540B,Google,Industry,United States of America,United States of America,Language,2022-10-20,2022,True
+LMSI-Palm,Google,Industry and academia,United States of America,"United States of America,United States of America",Language,2022-10-20,2022,False
+U-PaLM (540B),Google,Industry,United States of America,United States of America,Language,2022-10-20,2022,True
+EnCodec,Meta AI,Industry,United States of America,United States of America,Audio,2022-10-24,2022,False
+eDiff-I,Nvidia,Industry,United States of America,United States of America,Image generation,2022-11-02,2022,True
+Mogrifier RLSTM (WT2),DeepMind,Industry,United Kingdom,United Kingdom,Language,2022-11-03,2022,True
+mT0-13B,Hugging Face,Other or unknown,United States of America,"United States of America,France",Language,2022-11-03,2022,False
+InternImage,Shanghai AI Lab,Industry and academia,China,"China,China,China,Hong Kong,Hong Kong",Vision,2022-11-10,2022,True
+AltCLIP_M9,Beijing Academy of Artificial Intelligence / BAAI,Academia,China,China,Multimodal,2022-11-12,2022,False
+EVA-01,Beijing Academy of Artificial Intelligence / BAAI,Academia,China,"China,China,China,China",Vision,2022-11-14,2022,True
+Galactica,Meta AI,Industry,United States of America,United States of America,Language,2022-11-16,2022,True
+Fusion in Encoder,Samsung,Industry,South Korea,South Korea,Language,2022-11-18,2022,True
+AR-LDM,Alibaba,Industry and academia,China,"China,Canada,Canada",Image generation,2022-11-20,2022,True
+CICERO,Meta AI,Industry,United States of America,United States of America,Games,2022-11-22,2022,False
+ALM 1.0,Beijing Academy of Artificial Intelligence / BAAI,Academia,China,China,Language,2022-11-28,2022,False
+DiT-XL/2 + Discriminator Guidance,Korea Advanced Institute of Science and Technology (KAIST),Industry and academia,South Korea,"South Korea,South Korea",Image generation,2022-11-28,2022,False
+Discriminator Guidance,Korea Advanced Institute of Science and Technology (KAIST),Industry and academia,South Korea,"South Korea,South Korea",Image generation,2022-11-28,2022,True
+DeepNash,DeepMind,Industry,United Kingdom,United Kingdom,Games,2022-12-01,2022,False
+Vega v2,Wuhan University,Academia,China,"China,China,Singapore,United States of America,China,Australia",Language,2022-12-04,2022,True
+TranceptEve,University of Oxford,Academia,United Kingdom,"United Kingdom,United States of America",Biology,2022-12-10,2022,False
+RT-1,Google,Industry,United States of America,United States of America,Robotics,2022-12-13,2022,False
+CaLM,University of Oxford,Academia,United Kingdom,United Kingdom,Biology,2022-12-19,2022,True
+Hybrid H3-2.7B,Stanford University,Academia,United States of America,"United States of America,United States of America",Language,2022-12-28,2022,True
+VALL-E,Microsoft,Industry,United States of America,United States of America,Audio,2023-01-05,2023,True
+DreamerV3,DeepMind,Industry and academia,United Kingdom,"United Kingdom,Canada",Games,2023-01-10,2023,True
+Nucleotide Transformer,Nvidia,Industry and academia,United States of America,"United States of America,Germany,United Kingdom",Biology,2023-01-15,2023,True
+Ankh_large,Technical University of Munich,Academia,Germany,"Germany,United States of America",Biology,2023-01-16,2023,True
+MusicLM,Google,Industry,United States of America,United States of America,Audio,2023-01-26,2023,False
+DDPM-IP (CelebA),Utrecht University,Academia,Netherlands,Netherlands,Image generation,2023-01-27,2023,True
+BLIP-2 (Q-Former),Salesforce Research,Industry,United States of America,United States of America,Vision,2023-01-30,2023,True
+Gen-1,Runway,Industry,United States of America,United States of America,Video,2023-02-06,2023,False
+ProteinDT,University of California (UC) Berkeley,Industry and academia,United States of America,"United States of America,United States of America,Canada,United States of America,United States of America,United States of America,Canada",Biology,2023-02-09,2023,False
+ViT-22B,Google,Industry,United States of America,United States of America,Vision,2023-02-10,2023,True
+BASIC-L + Lion,Google,Industry and academia,United States of America,"United States of America,United States of America",Vision,2023-02-13,2023,False
+LLaMA-65B,Meta AI,Industry,United States of America,United States of America,Language,2023-02-24,2023,True
+DiT-XL/2,New York University (NYU),Academia,United States of America,"United States of America,United States of America",Image generation,2023-03-02,2023,True
+AudioGen,Meta AI,Industry and academia,United States of America,"United States of America,Israel",Audio,2023-03-05,2023,True
+PaLM-E,Google,Industry and academia,United States of America,"United States of America,Germany",Robotics,2023-03-06,2023,False
+Claude,Anthropic,Industry,United States of America,United States of America,Language,2023-03-14,2023,False
+Falcon-40B,Technology Innovation Institute,Other or unknown,United Arab Emirates,United Arab Emirates,Language,2023-03-15,2023,True
+GPT-4 (Mar 2023),OpenAI,Industry,United States of America,United States of America,Multimodal,2023-03-15,2023,True
+LEP-AD,King Abdullah University of Science and Technology (KAUST),Academia,Saudi Arabia,"Saudi Arabia,Sweden",Biology,2023-03-15,2023,False
+Gen-2,Runway,Industry,United States of America,United States of America,Video,2023-03-20,2023,False
+PanGu-Σ,Huawei Noah's Ark Lab,Industry,China,China,Language,2023-03-20,2023,True
+Firefly,Adobe,Industry,United States of America,United States of America,Image generation,2023-03-21,2023,False
+SigLIP 400M,Google DeepMind,Industry,United States of America,United States of America,Vision,2023-03-27,2023,True
+VideoMAE V2,Nanjing University,Academia,China,"China,China,China",Video,2023-03-29,2023,True
+BloombergGPT,Bloomberg,Industry and academia,United States of America,"United States of America,United States of America",Language,2023-03-30,2023,True
+Segment Anything Model,Meta AI,Industry,United States of America,United States of America,Vision,2023-04-05,2023,True
+Incoder-6.7B,Facebook AI Research,Industry and academia,United States of America,"United States of America,France,United States of America,United States of America,United States of America,United States of America",Language,2023-04-09,2023,True
+DINOv2,Facebook AI Research,Industry and academia,United States of America,"United States of America,France,France",Vision,2023-04-14,2023,True
+LLaVA,University of Wisconsin Madison,Industry and academia,United States of America,"United States of America,United States of America,United States of America",Multimodal,2023-04-17,2023,True
+Agile Soccer Robot,Google DeepMind,Industry,United States of America,United States of America,Robotics,2023-04-26,2023,False
+ImageBind,Meta AI,Industry,United States of America,United States of America,Multimodal,2023-05-09,2023,False
+StarCoder,Hugging Face,Industry and academia,United States of America,"United States of America,United States of America,United States of America,Canada,United States of America,United States of America,Germany,Germany,United Kingdom,United States of America,Singapore,Israel,Australia,Australia,Australia,Canada,United States of America,Canada,United States of America,Germany,United States of America,United States of America,Sweden,Germany,United States of America,United States of America,United States of America,India,India,Netherlands,Spain,United States of America,Israel,United Kingdom,United States of America,United States of America,Germany",Language,2023-05-09,2023,True
+PaLM 2,Google,Industry,United States of America,United States of America,Language,2023-05-10,2023,True
+InstructBLIP,Salesforce Research,Industry and academia,United States of America,"United States of America,Hong Kong,Singapore",Multimodal,2023-05-11,2023,True
+Med-PaLM 2,Google Research,Industry,United States of America,"United States of America,United Kingdom",Medicine,2023-05-16,2023,False
+CoEdiT-xxl,University of Minnesota,Industry and academia,United States of America,"United States of America,United States of America",Language,2023-05-17,2023,False
+ONE-PEACE,Alibaba,Industry and academia,China,"China,China",Multimodal,2023-05-18,2023,True
+CodeT5+,Salesforce,Industry,United States of America,United States of America,Language,2023-05-20,2023,False
+Goat-7B,National University of Singapore,Academia,Singapore,Singapore,Language,2023-05-23,2023,False
+DPO on Pythia-2.8B,Stanford University,Academia,United States of America,"United States of America,United States of America",Language,2023-05-29,2023,False
+PaLI-X,Google Research,Industry,United States of America,United States of America,Multimodal,2023-05-29,2023,True
+LTM-1,Magic,Industry,United States of America,United States of America,Language,2023-06-06,2023,False
+MusicGen,Meta AI,Industry,United States of America,United States of America,Audio,2023-06-08,2023,False
+GPT-3.5 Turbo,OpenAI,Industry,United States of America,United States of America,Language,2023-06-13,2023,False
+GPT-4 (Jun 2023),OpenAI,Industry,United States of America,United States of America,Multimodal,2023-06-13,2023,True
+ERNIE 3.5,Baidu,Industry,China,China,Language,2023-06-27,2023,False
+HyenaDNA,Stanford University,Academia,United States of America,"United States of America,United States of America,Canada,Canada",Biology,2023-06-27,2023,True
+Stable Diffusion XL (SDXL),Stability AI,Industry,United Kingdom,United Kingdom,Image generation,2023-07-04,2023,False
+Pangu-Weather,Huawei,Industry,China,China,Earth science,2023-07-05,2023,True
+InternLM,Shanghai AI Lab,Industry and academia,China,"China,Hong Kong",Language,2023-07-06,2023,True
+xTrimoPGLM -100B,Tsinghua University,Industry and academia,China,"China,China",Biology,2023-07-06,2023,True
+Claude 2,Anthropic,Industry,United States of America,United States of America,Language,2023-07-11,2023,True
+GPT3-2.7B (FlashAttention-2),Stanford University,Academia,United States of America,"United States of America,United States of America",Language,2023-07-18,2023,False
+Llama 2-70B,Meta AI,Industry,United States of America,United States of America,Language,2023-07-18,2023,True
+Llama 2-7B,Meta AI,Industry,United States of America,United States of America,Language,2023-07-18,2023,True
+AudioLM,Google Research,Industry,United States of America,United States of America,Audio,2023-07-26,2023,True
+RT-2,Google DeepMind,Industry,United States of America,United States of America,Robotics,2023-07-28,2023,False
+GGNN,Westlake University,Academia,China,"China,China,United States of America",Biology,2023-08-05,2023,True
+Qwen-VL,Alibaba,Industry,China,China,Multimodal,2023-08-24,2023,False
+PeptideBERT,Carnegie Mellon University (CMU),Academia,United States of America,United States of America,Biology,2023-08-28,2023,True
+Jais,Cerebras Systems,Industry and academia,United States of America,"United States of America,United Arab Emirates,United Arab Emirates",Language,2023-08-29,2023,True
+Swift,Intel Labs,Industry,United States of America,United States of America,Robotics,2023-08-30,2023,True
+Falcon-180B,Technology Innovation Institute,Other or unknown,United Arab Emirates,United Arab Emirates,Language,2023-09-06,2023,True
+Robot Parkour,Shanghai Qi Zhi institute,Academia,China,"China,United States of America,United States of America,China",Robotics,2023-09-12,2023,False
+AlphaMissense,Google DeepMind,Industry,United States of America,United States of America,Biology,2023-09-22,2023,False
+GPT-4V,OpenAI,Industry,United States of America,United States of America,Multimodal,2023-09-25,2023,False
+Show-1,National University of Singapore,Academia,Singapore,Singapore,Video,2023-09-27,2023,False
+Amazon Titan,Amazon,Industry,United States of America,United States of America,Language,2023-09-28,2023,True
+GPT-3.5 Turbo Instruct,OpenAI,Industry,United States of America,United States of America,Language,2023-09-28,2023,False
+CTM (CIFAR-10),Stanford University,Industry and academia,United States of America,"United States of America,Japan",Image generation,2023-10-01,2023,False
+FinGPT-13B,University of California Los Angeles (UCLA),Academia,United States of America,"United States of America,United States of America,United States of America",Language,2023-10-07,2023,True
+RoseTTAFold All-Atom (RFAA),University of Washington,Academia,United States of America,"United States of America,South Korea,United Kingdom",Biology,2023-10-09,2023,True
+Ferret (13B),Columbia University,Industry and academia,United States of America,"United States of America,United States of America",Multimodal,2023-10-11,2023,False
+RT-2-X,Google DeepMind,Industry,United States of America,United States of America,Robotics,2023-10-13,2023,False
+ERNIE 4.0,Baidu,Industry,China,China,Multimodal,2023-10-17,2023,False
+PaLI-3,Google DeepMind,Industry,United States of America,"United States of America,United States of America,United States of America",Multimodal,2023-10-17,2023,False
+DALL·E 3,OpenAI,Industry,United States of America,United States of America,Image generation,2023-10-19,2023,False
+CODEFUSION (Python),Microsoft,Industry,United States of America,"United States of America,United States of America",Language,2023-10-26,2023,True
+DiT-XL/2 + CADS,ETH Zurich,Industry and academia,Switzerland,"Switzerland,United States of America,Switzerland",Image generation,2023-10-26,2023,False
+ChatGLM3-6B,Z.ai (Zhipu AI),Industry,China,China,Multimodal,2023-10-27,2023,True
+Skywork-13B,Kunlun Inc.,Industry,China,China,Language,2023-10-30,2023,True
+Cohere Embed,Cohere,Industry,Canada,Canada,Language,2023-11-02,2023,False
+Yi-34B,01.AI,Industry,China,China,Language,2023-11-02,2023,True
+BLUUMI,University of Turku,Industry and academia,Finland,"Finland,United States of America",Language,2023-11-03,2023,False
+RT-Trajectory,Google DeepMind,Industry and academia,United States of America,"United States of America,United States of America,United States of America",Robotics,2023-11-03,2023,False
+Grok-1,xAI,Industry,United States of America,United States of America,Language,2023-11-04,2023,True
+LLaVA 1.5,University of Wisconsin Madison,Industry and academia,United States of America,"United States of America,United States of America",Multimodal,2023-11-05,2023,True
+CogVLM-17B,Tsinghua University,Industry and academia,China,"China,China,China",Multimodal,2023-11-06,2023,True
+GPT-4 Turbo (Nov 2023),OpenAI,Industry,United States of America,United States of America,Multimodal,2023-11-06,2023,False
+OmniVec,TensorTour,Industry,United States of America,United States of America,Multimodal,2023-11-07,2023,False
+mPLUG-Owl2,Alibaba,Industry,China,China,Vision,2023-11-07,2023,False
+MultiBand Diffusion,Meta AI,Industry and academia,United States of America,"United States of America,Israel,France",Audio,2023-11-08,2023,True
+RoFormer,Zhuiyi Technology,Industry,China,China,Language,2023-11-08,2023,True
+SPHINX (Llama 2 13B),Shanghai AI Lab,Academia,China,"China,Hong Kong,China",Vision,2023-11-13,2023,True
+Volcano 13B,Korea University,Industry and academia,South Korea,"South Korea,South Korea,South Korea",Language,2023-11-13,2023,True
+GraphCast,Google DeepMind,Industry,United States of America,United States of America,Earth science,2023-11-14,2023,True
+Qwen-Audio-Chat,Alibaba,Industry,China,China,Language,2023-11-14,2023,False
+Nemotron-3-8B,Nvidia,Industry,United States of America,United States of America,Language,2023-11-15,2023,True
+AndesGPT,Oppo Mobile Telecommunications,Industry,China,China,Language,2023-11-16,2023,False
+Claude 2.1,Anthropic,Industry,United States of America,United States of America,Language,2023-11-21,2023,False
+Inflection-2,Inflection AI,Industry,United States of America,United States of America,Language,2023-11-22,2023,True
+GNoME for crystal discovery,Google DeepMind,Industry,United States of America,United States of America,Materials science,2023-11-29,2023,False
+PPLX-70B-Online,Perplexity,Industry,United States of America,United States of America,Language,2023-11-29,2023,False
+Qwen-72B,Alibaba,Industry,China,China,Language,2023-11-30,2023,True
+Mamba-24M (SC09),Carnegie Mellon University (CMU),Academia,United States of America,"United States of America,United States of America",Speech,2023-12-01,2023,False
+Gemini 1.0 Pro,Google DeepMind,Industry,United States of America,United States of America,Multimodal,2023-12-06,2023,False
+Gemini 1.0 Ultra,Google DeepMind,Industry,United States of America,United States of America,Multimodal,2023-12-06,2023,True
+Llama Guard,Meta AI,Industry,United States of America,United States of America,Language,2023-12-07,2023,True
+SeamlessM4T,Facebook,Industry and academia,United States of America,"United States of America,France,United States of America",Speech,2023-12-08,2023,False
+Mixtral 8x7B,Mistral AI,Industry,France,France,Language,2023-12-11,2023,True
+W.A.L.T,Stanford University,Industry and academia,United States of America,"United States of America,United States of America,United States of America",Video,2023-12-11,2023,False
+VILA-13B,Nvidia,Industry and academia,United States of America,"United States of America,United States of America",Multimodal,2023-12-12,2023,True
+CogAgent,Tsinghua University,Industry and academia,China,"China,China",Vision,2023-12-14,2023,True
+FunSearch,Google DeepMind,Industry,United States of America,United States of America,Language,2023-12-14,2023,True
+Gemini Nano-1,Google DeepMind,Industry,United States of America,United States of America,Multimodal,2023-12-19,2023,False
+Gemini Nano-2,Google DeepMind,Industry,United States of America,United States of America,Multimodal,2023-12-19,2023,False
+nekomata-14b,rinna,Industry,Japan,Japan,Language,2023-12-21,2023,True
+GQA-8-XXL,Google Research,Industry,United States of America,United States of America,Language,2023-12-23,2023,True
+CoRe,Tsinghua University,Academia,China,China,Mathematics,2023-12-29,2023,False
+Kimi Explorer,Moonshot,Industry,China,China,Language,2024-01-01,2024,False
+Palmyra X 003,Writer,Industry,United States of America,United States of America,Language,2024-01-01,2024,False
+AlphaGeometry,Google DeepMind,Industry and academia,United States of America,"United States of America,United States of America",Mathematics,2024-01-17,2024,False
+Qwen-VL-Max,Alibaba,Industry,China,China,Multimodal,2024-01-25,2024,False
+Qwen1.5-72B,Alibaba,Industry,China,China,Language,2024-02-04,2024,True
+Aya,Cohere Labs (formerly Cohere for AI),Industry and academia,Canada,"Canada,United States of America,Canada,United States of America,United States of America",Language,2024-02-12,2024,False
+Gemini 1.5 Pro,Google DeepMind,Industry,United States of America,United States of America,Language,2024-02-15,2024,False
+Sora,OpenAI,Industry,United States of America,United States of America,Video,2024-02-15,2024,False
+Stable Diffusion 3,Stability AI,Industry,United Kingdom,United Kingdom,Image generation,2024-02-22,2024,True
+MegaScale (Production),ByteDance,Industry and academia,China,"China,China",Language,2024-02-23,2024,True
+Mistral Large,Mistral AI,Industry,France,France,Language,2024-02-26,2024,False
+Aramco Metabrain AI,Saudi Aramco,Other or unknown,Saudi Arabia,Saudi Arabia,Language,2024-03-04,2024,True
+Claude 3 Opus,Anthropic,Industry,United States of America,United States of America,Multimodal,2024-03-04,2024,False
+Claude 3 Sonnet,Anthropic,Industry,United States of America,United States of America,Multimodal,2024-03-04,2024,False
+Inflection-2.5,Inflection AI,Industry,United States of America,United States of America,Language,2024-03-07,2024,True
+ManiGaussian,Tsinghua University,Academia,China,"China,Singapore,United States of America",Robotics,2024-03-13,2024,False
+MM1-30B,Apple,Industry,United States of America,United States of America,Multimodal,2024-03-14,2024,True
+DBRX,Databricks,Industry,United States of America,United States of America,Language,2024-03-27,2024,True
+ReALM,Apple,Industry,United States of America,United States of America,Language,2024-03-29,2024,False
+GPT-4 Turbo (Apr 2024),OpenAI,Industry,United States of America,United States of America,Multimodal,2024-04-09,2024,False
+Reka Core,Reka AI,Industry,United States of America,United States of America,Multimodal,2024-04-15,2024,True
+Llama 3-70B,Meta AI,Industry,United States of America,United States of America,Language,2024-04-18,2024,True
+GenCast,Google DeepMind,Industry,United States of America,United States of America,Earth science,2024-05-01,2024,True
+VILA1.5-13B,Nvidia,Industry and academia,United States of America,"United States of America,United States of America",Multimodal,2024-05-03,2024,True
+AlphaFold 3,Google DeepMind,Industry,United States of America,"United States of America,United Kingdom",Biology,2024-05-08,2024,True
+GPT-4o,OpenAI,Industry,United States of America,United States of America,Multimodal,2024-05-13,2024,False
+Yi-Large,01.AI,Industry,China,China,Language,2024-05-13,2024,True
+GLM-4 (0520),Z.ai (Zhipu AI),Industry,China,China,Language,2024-05-20,2024,False
+Octo-Base,University of California (UC) Berkeley,Industry and academia,United States of America,"United States of America,United States of America,United States of America,United Kingdom",Robotics,2024-05-20,2024,True
+ALLaM adapted 70B,Saudi Data and Artificial Intelligence Authority,Other or unknown,Saudi Arabia,Saudi Arabia,Language,2024-05-21,2024,True
+Qwen2-72B,Alibaba,Industry,China,China,Language,2024-06-07,2024,True
+OpenVLA,Stanford University,Industry and academia,United States of America,"United States of America,United States of America,United States of America,United States of America,United States of America,United States of America",Robotics,2024-06-13,2024,True
+Nemotron-4 340B,Nvidia,Industry,United States of America,United States of America,Language,2024-06-14,2024,True
+DeepSeek-Coder-V2 236B,DeepSeek,Industry,China,China,Language,2024-06-17,2024,True
+Claude 3.5 Sonnet,Anthropic,Industry,United States of America,United States of America,Multimodal,2024-06-20,2024,True
+Cambrian-1-34B,New York University (NYU),Academia,United States of America,United States of America,Multimodal,2024-06-24,2024,False
+ESM3 (98B),EvolutionaryScale,Industry and academia,United States of America,"United States of America,United States of America",Biology,2024-06-25,2024,True
+Ernie 4.0 Turbo,Baidu,Industry,China,China,Multimodal,2024-06-28,2024,False
+SenseChat 5.5,SenseTime,Industry,Hong Kong,Hong Kong,Multimodal,2024-07-06,2024,False
+DeepL LLM,DeepL,Industry,Germany,Germany,Language,2024-07-16,2024,False
+Mathstral,Mistral AI,Industry,France,France,Mathematics,2024-07-16,2024,False
+GPT-4o mini,OpenAI,Industry,United States of America,United States of America,Language,2024-07-18,2024,False
+Llama 3.1-405B,Meta AI,Industry,United States of America,United States of America,Language,2024-07-23,2024,True
+Mistral Large 2,Mistral AI,Industry,France,France,Language,2024-07-24,2024,False
+AFM-on-device,Apple,Industry,United States of America,United States of America,Language,2024-07-29,2024,True
+AFM-server,Apple,Industry,United States of America,United States of America,Language,2024-07-29,2024,True
+GPT-4o (Aug 2024),OpenAI,Industry,United States of America,United States of America,Multimodal,2024-08-06,2024,False
+LLaVA-OV-72B,ByteDance,Industry and academia,China,"China,Singapore,Hong Kong,Hong Kong",Multimodal,2024-08-06,2024,True
+Table Tennis Agent,Google DeepMind,Industry,United States of America,United States of America,Robotics,2024-08-07,2024,False
+Grok-2,xAI,Industry,United States of America,United States of America,Language,2024-08-13,2024,True
+Jamba 1.5-Large,AI21 Labs,Industry,Israel,Israel,Language,2024-08-22,2024,False
+GLM-4-Plus,Z.ai (Zhipu AI),Industry,China,China,Language,2024-08-29,2024,False
+Hairuo,Inspur,Industry,China,China,Language,2024-08-29,2024,False
+AlphaProteo,Google DeepMind,Industry,United States of America,United States of America,Biology,2024-09-05,2024,False
+Harrison.rad.1,Harrison.ai,Industry,Australia,Australia,Vision,2024-09-05,2024,False
+Hunyuan Turbo,Tencent,Industry,China,China,Language,2024-09-05,2024,False
+DeepSeek-V2.5,DeepSeek,Industry,China,China,Language,2024-09-06,2024,True
+o1-mini,OpenAI,Industry,United States of America,United States of America,Language,2024-09-12,2024,False
+o1-preview,OpenAI,Industry,United States of America,United States of America,Language,2024-09-12,2024,False
+Qwen2.5-32B,Alibaba,Industry,China,China,Language,2024-09-17,2024,True
+Oryx 34B,Tsinghua University,Industry and academia,China,"China,China,Singapore",Multimodal,2024-09-19,2024,False
+Qwen2.5 Instruct (72B),Alibaba,Industry,China,China,Language,2024-09-19,2024,True
+Qwen2.5-72B,Alibaba,Industry,China,China,Language,2024-09-19,2024,True
+Telechat2-115B,China Telecom,Industry,China,China,Language,2024-09-20,2024,True
+Llama 3.2 11B,Meta AI,Industry,United States of America,United States of America,Multimodal,2024-09-24,2024,True
+PixelDance,ByteDance,Industry,China,China,Video,2024-09-24,2024,False
+Movie Gen Video,Meta AI,Industry,United States of America,United States of America,Video,2024-10-04,2024,True
+GR-2,ByteDance,Industry,China,China,Robotics,2024-10-08,2024,False
+Palmyra X 004,Writer,Industry,United States of America,United States of America,Language,2024-10-09,2024,False
+RDT-1B,Tsinghua University,Academia,China,China,Robotics,2024-10-10,2024,True
+Llama-3.1-Nemotron-70B-Instruct,Nvidia,Industry,United States of America,"United States of America,United States of America",Language,2024-10-12,2024,True
+CHAI-1,Chai discovery,Industry,United States of America,United States of America,Biology,2024-10-15,2024,True
+Yi-Lightning,01.AI,Industry,China,China,Language,2024-10-16,2024,True
+Claude 3.5 Sonnet (October 2024),Anthropic,Industry,United States of America,United States of America,Multimodal,2024-10-22,2024,False
+NVLM-D 72B,Nvidia,Industry,United States of America,United States of America,Vision,2024-10-22,2024,True
+NVLM-H 72B,Nvidia,Industry,United States of America,United States of America,Vision,2024-10-22,2024,True
+NVLM-X 72B,Nvidia,Industry,United States of America,United States of America,Vision,2024-10-22,2024,True
+Doubao-pro,ByteDance,Industry,China,China,Language,2024-10-28,2024,True
+Hunyuan-Large,Tencent,Industry,China,China,Language,2024-11-06,2024,True
+SeedEdit,ByteDance,Industry,China,China,Vision,2024-11-11,2024,False
+Gemini-Exp-1114,Google DeepMind,Industry,United States of America,United States of America,Language,2024-11-15,2024,False
+k0-math,Moonshot,Industry,China,China,Mathematics,2024-11-16,2024,False
+Pixtral Large,Mistral AI,Industry,France,France,Multimodal,2024-11-18,2024,False
+Suno v4,Suno,Industry,United States of America,United States of America,Audio,2024-11-19,2024,False
+GPT-4o (Nov 2024),OpenAI,Industry,United States of America,United States of America,Multimodal,2024-11-20,2024,False
+Fugatto 1,Nvidia,Industry,United States of America,United States of America,Multimodal,2024-11-25,2024,False
+Amazon Nova Pro,Amazon,Industry,United States of America,United States of America,Multimodal,2024-12-03,2024,True
+Infinity,ByteDance,Industry,China,China,Image generation,2024-12-05,2024,False
+NVILA 15B,Nvidia,Industry and academia,United States of America,"United States of America,United States of America,United States of America,United States of America,United States of America,China",Vision,2024-12-05,2024,False
+o1,OpenAI,Industry,United States of America,United States of America,Language,2024-12-05,2024,False
+Llama 3.3 70B,Meta AI,Industry,United States of America,United States of America,Language,2024-12-06,2024,True
+EXAONE 3.5 32B,LG AI Research,Industry,South Korea,South Korea,Language,2024-12-09,2024,True
+Sora Turbo,OpenAI,Industry,United States of America,United States of America,Video,2024-12-09,2024,False
+Gemini 2.0 Pro,Google DeepMind,Industry,United States of America,United States of America,Language,2024-12-11,2024,False
+Apollo 7B,Meta AI,Industry and academia,United States of America,"United States of America,United States of America",Multimodal,2024-12-13,2024,False
+Veo 2,Google DeepMind,Industry,United States of America,United States of America,Video,2024-12-16,2024,False
+o3,OpenAI,Industry,United States of America,United States of America,Language,2024-12-20,2024,False
+DeepSeek-V3,DeepSeek,Industry,China,China,Language,2024-12-24,2024,True
+STORM-B/8,University of Southern California,Industry and academia,United States of America,"United States of America,United States of America,United States of America,United States of America",3D modeling,2024-12-31,2024,False
+Eurus-2-7B-PRIME,Tsinghua University,Academia,China,"China,United States of America,China,China,China,China",Mathematics,2025-01-02,2025,True
+Stable Point Aware 3D (SPAR3D),Stability AI,Industry and academia,United Kingdom,"United Kingdom,United States of America",3D modeling,2025-01-08,2025,False
+INTELLECT-MATH,Prime Intellect,Industry,United States of America,United States of America,Mathematics,2025-01-17,2025,False
+DeepSeek-R1,DeepSeek,Industry,China,China,Language,2025-01-20,2025,True
+Eagle 2,Nvidia,Industry and academia,United States of America,"United States of America,China,China,Hong Kong,United States of America,United States of America",Vision,2025-01-20,2025,True
+Doubao-1.5-pro,ByteDance,Industry,China,China,Language,2025-01-22,2025,False
+Kimi k1.5,Moonshot,Industry,China,China,Multimodal,2025-01-22,2025,False
+Computer-Using Agent (CUA),OpenAI,Industry,United States of America,United States of America,Vision,2025-01-23,2025,False
+GPT-4o (Jan 2025),OpenAI,Industry,United States of America,United States of America,Multimodal,2025-01-29,2025,False
+o3-mini,OpenAI,Industry,United States of America,United States of America,Language,2025-01-31,2025,False
+Grok 3,xAI,Industry,United States of America,United States of America,Language,2025-02-17,2025,True
+Claude 3.7 Sonnet,Anthropic,Industry,United States of America,United States of America,Language,2025-02-24,2025,True
+GPT-4.5,OpenAI,Industry,United States of America,United States of America,Language,2025-02-27,2025,True
+Mercury,Inception Labs,Industry,United States of America,United States of America,Language,2025-02-27,2025,False
+Mistral OCR,Mistral AI,Industry,France,France,Multimodal,2025-03-06,2025,False
+QwQ-32B,Alibaba,Industry,China,China,Language,2025-03-06,2025,True
+Hunyuan-TurboS,Tencent,Industry,China,China,Language,2025-03-11,2025,True
+Cohere Command A,Cohere,Industry,Canada,Canada,Language,2025-03-13,2025,False
+ERNIE-4.5-VL-424B-A47B (文心大模型4.5),Baidu,Industry,China,China,Multimodal,2025-03-16,2025,False
+EXAONE Deep 32B,LG AI Research,Industry,South Korea,South Korea,Language,2025-03-16,2025,True
+o1-pro,OpenAI,Industry,United States of America,United States of America,Language,2025-03-19,2025,False
+Diffusion Renderer,Nvidia,Industry and academia,United States of America,"United States of America,Canada,Canada,United States of America",Video,2025-03-22,2025,False
+DeepSeek-V3 (Mar 2025),DeepSeek,Industry,China,China,Language,2025-03-24,2025,True
+Gemini 2.5 Pro (Mar 2025),Google DeepMind,Industry,United States of America,United States of America,Language,2025-03-25,2025,False
+GPT-4o (Mar 2025),OpenAI,Industry,United States of America,United States of America,Multimodal,2025-03-27,2025,False
+Llama 4 Behemoth (preview),Meta AI,Industry,United States of America,United States of America,Multimodal,2025-04-05,2025,True
+Llama 4 Maverick,Meta AI,Industry,United States of America,United States of America,Multimodal,2025-04-05,2025,True
+Llama 4 Scout,Meta AI,Industry,United States of America,United States of America,Multimodal,2025-04-05,2025,True
+Pangu Ultra,Huawei,Industry,China,China,Language,2025-04-10,2025,True
+π0.5 (pi-0.5),Physical Intelligence,Industry,United States of America,United States of America,Robotics,2025-04-22,2025,False
+gpt-image-1,OpenAI,Industry,United States of America,United States of America,Image generation,2025-04-23,2025,False
+Qwen3-235B-A22B,Alibaba,Industry,China,China,Language,2025-04-29,2025,True
+Gemini 2.5 Pro (May 2025),Google DeepMind,Industry,United States of America,United States of America,Language,2025-05-06,2025,False
+Seed1.5-VL,ByteDance,Industry,China,China,Vision,2025-05-11,2025,True
+Imagen 4,Google,Industry,United States of America,United States of America,Image generation,2025-05-20,2025,False
+Veo 3,Google DeepMind,Industry,United States of America,United States of America,Video,2025-05-21,2025,False
+Claude Opus 4,Anthropic,Industry,United States of America,United States of America,Language,2025-05-22,2025,False
+Claude Sonnet 4,Anthropic,Industry,United States of America,United States of America,Language,2025-05-22,2025,False
+DeepSeek-R1 (May 2025),DeepSeek,Industry,China,China,Language,2025-05-28,2025,True
+Gemini 2.5 Pro (Jun 2025),Google DeepMind,Industry,United States of America,United States of America,Language,2025-06-05,2025,False
+Qwen3 Embedding,Alibaba,Industry,China,China,Language,2025-06-05,2025,False
+Seed-1.6-Thinking,ByteDance,Industry,China,China,Multimodal,2025-06-11,2025,False
+FGN,Google DeepMind,Industry,United States of America,United States of America,Earth science,2025-06-12,2025,True
+EXAONE Path 2.0,LG AI Research,Industry,South Korea,South Korea,Vision,2025-07-09,2025,False
+Grok 4,xAI,Industry,United States of America,United States of America,Language,2025-07-09,2025,True
+Grok 4 Heavy,xAI,Industry,United States of America,United States of America,Language,2025-07-10,2025,False
+Kimi K2,Moonshot,Industry,China,China,Language,2025-07-11,2025,True
+Gemini Embedding,Google DeepMind,Industry,United States of America,United States of America,Language,2025-07-14,2025,False
+EXAONE 4.0 (32B),LG AI Research,Industry,South Korea,South Korea,Language,2025-07-15,2025,True
+Qwen3-Coder-480B-A35B,Alibaba,Industry,China,China,Language,2025-07-22,2025,True
+Qwen3-235B-A22B (Jul 2025),Alibaba,Industry,China,China,Language,2025-07-25,2025,True
+Qwen3-235B-A22B-Thinking (Jul 2025),Alibaba,Industry,China,China,Language,2025-07-25,2025,True
+GLM-4.5,Z.ai (Zhipu AI),Industry and academia,China,"China,China",Language,2025-07-28,2025,True
+Gemini 2.5 Deep Think,Google,Industry,United States of America,"United States of America,United States of America",Language,2025-08-01,2025,False
+MindLink-72B,Kunlun Inc.,Industry,China,China,Language,2025-08-01,2025,False
+Hierarchical Reasoning Model (HPM),Sapient Intelligence,Other or unknown,Singapore,Singapore,Language,2025-08-04,2025,False
+Qwen Image,Alibaba,Industry,China,China,Image generation,2025-08-04,2025,False
+Claude Opus 4.1,Anthropic,Industry,United States of America,United States of America,Language,2025-08-05,2025,False
+gpt-oss-120b,OpenAI,Industry,United States of America,United States of America,Language,2025-08-05,2025,True
+gpt-oss-20b,OpenAI,Industry,United States of America,United States of America,Language,2025-08-05,2025,True
+GPT-5,OpenAI,Industry,United States of America,United States of America,Multimodal,2025-08-07,2025,True
+GPT-5 mini,OpenAI,Industry,United States of America,United States of America,Multimodal,2025-08-07,2025,False
+GPT-5 nano,OpenAI,Industry,United States of America,United States of America,Multimodal,2025-08-07,2025,False
+Gemini 2.5 Flash Image (Nano Banana),Google,Industry,United States of America,United States of America,Image generation,2025-08-26,2025,False
+LongCat-Flash,Meituan Inc,Industry,China,China,Language,2025-09-01,2025,True
+Qwen3-Max,Alibaba,Industry,China,China,Language,2025-09-05,2025,True
+AgentFounder-30B,Alibaba,Industry,China,China,Language,2025-09-16,2025,True
+Qwen3-Omni-30B-A3B,Alibaba,Industry,China,China,Multimodal,2025-09-22,2025,True
+Qwen3-VL-235B-A22B,Alibaba,Industry,China,China,Language,2025-09-23,2025,True
+Gemini Robotics-ER 1.5,Google DeepMind,Industry,United States of America,United States of America,Vision,2025-09-25,2025,False
+Claude Sonnet 4.5,Anthropic,Industry,United States of America,United States of America,Language,2025-09-29,2025,False
+GLM-4.6,Z.ai (Zhipu AI),Industry and academia,China,"China,China",Language,2025-09-30,2025,True
+Sora 2.0,OpenAI,Industry,United States of America,United States of America,Video,2025-09-30,2025,False
+GPT-5 Pro,OpenAI,Industry,United States of America,United States of America,Multimodal,2025-10-07,2025,False
+Ling-1T,Ant Group,Industry,China,China,Language,2025-10-10,2025,True
+Claude Haiku 4.5,Anthropic,Industry,United States of America,United States of America,Language,2025-10-15,2025,False
+Veo 3.1,Google DeepMind,Industry,United States of America,United States of America,Video,2025-10-15,2025,False
+MiniMax-M2,MiniMax,Industry,China,China,Language,2025-10-27,2025,False
+Tongyi DeepResearch,Alibaba,Industry,China,China,Language,2025-10-28,2025,False
+Kimi K2 Thinking,Moonshot,Industry,China,China,Language,2025-11-06,2025,True
+Kaiju Large,Character.ai,Industry,United States of America,United States of America,Language,2025-11-07,2025,False
+Kaiju Medium,Character.ai,Industry,United States of America,United States of America,Language,2025-11-07,2025,False
+Kaiju Small,Character.ai,Industry,United States of America,United States of America,Language,2025-11-07,2025,False
+Meta's Generative Ads Model (GEM),Meta AI,Industry,United States of America,United States of America,Recommendation,2025-11-10,2025,False
+GPT-5.1-Codex,OpenAI,Industry,United States of America,United States of America,Language,2025-11-12,2025,False
+GPT-5.1,OpenAI,Industry,United States of America,United States of America,Multimodal,2025-11-13,2025,False
+GPT-5.1 Instant,OpenAI,Industry,United States of America,United States of America,Multimodal,2025-11-13,2025,False
+Grok 4.1,xAI,Industry,United States of America,United States of America,Language,2025-11-17,2025,False
+P1-235B-A22B,Shanghai AI Lab,Academia,China,China,Language,2025-11-17,2025,False
+π0.6 (pi-0.6),Physical Intelligence,Industry,United States of America,United States of America,Robotics,2025-11-17,2025,False
+Gemini 3 Deep Think,Google DeepMind,Industry,United States of America,United States of America,Language,2025-11-18,2025,False
+Gemini 3 Pro,Google DeepMind,Industry,United States of America,United States of America,Multimodal,2025-11-18,2025,False
+GPT-5.1-Codex-Max,OpenAI,Industry,United States of America,United States of America,Language,2025-11-19,2025,False
+Grok 4.1 Fast,xAI,Industry,United States of America,United States of America,Language,2025-11-19,2025,False
+Gemini 3 Pro Image (Nano Banana Pro),Google DeepMind,Industry,United States of America,United States of America,Image generation,2025-11-20,2025,False
+Olmo 3,Allen Institute for AI,Other or unknown,United States of America,United States of America,Language,2025-11-20,2025,True
+Claude Opus 4.5,Anthropic,Industry,United States of America,United States of America,Language,2025-11-24,2025,False
+DeepSeekMath-V2,DeepSeek,Industry,China,China,Language,2025-11-27,2025,False
+SIMA 2,Google DeepMind,Industry,United States of America,United States of America,3D modeling,2025-12-04,2025,False
+GPT-5.2,OpenAI,Industry,United States of America,United States of America,Unspecified,2025-12-11,2025,False
+GPT-5.2 Pro,OpenAI,Industry,United States of America,United States of America,Multimodal,2025-12-11,2025,False
+Nemotron 3-Nano-30B-A3B,Nvidia,Industry,United States of America,United States of America,Language,2025-12-15,2025,True
+GPT Image 1.5,OpenAI,Industry,United States of America,United States of America,Image generation,2025-12-16,2025,False
+GPT-5.2 Codex,OpenAI,Industry,United States of America,United States of America,Language,2025-12-18,2025,False
+GLM-4.7,Z.ai (Zhipu AI),Industry,China,China,Language,2025-12-22,2025,True
+MiniMax-M2.1,MiniMax,Industry,China,China,Language,2025-12-23,2025,False
+HyperCLOVA X SEED 32B Think,NAVER,Industry,South Korea,South Korea,Multimodal,2025-12-29,2025,False
+A.X K1,SK Telecom,Industry,South Korea,South Korea,Language,2025-12-30,2025,False
+VAETKI,NC AI,Industry,South Korea,South Korea,Language,2025-12-30,2025,False
+K-EXAONE,LG AI Research,Industry,South Korea,South Korea,Language,2025-12-31,2025,True
+Solar Open 100B,Upstage,Industry,South Korea,South Korea,Language,2025-12-31,2025,True
+Qwen3-Max-Thinking,Alibaba,Industry,China,China,Language,2026-01-25,2026,False
+Kimi K2.5,Moonshot,Industry,China,China,Language,2026-02-02,2026,True
+Qwen3-Coder-Next,Alibaba,Industry,China,China,Language,2026-02-02,2026,False
+GPT-5.3 Codex,OpenAI,Industry,United States of America,United States of America,Language,2026-02-05,2026,False
+GLM-5,Z.ai (Zhipu AI),Industry,China,China,Language,2026-02-12,2026,True
+GPT-5.3-Codex-Spark,OpenAI,Industry,United States of America,United States of America,Language,2026-02-12,2026,False
+Seedance 2.0,ByteDance,Industry,China,China,Image generation,2026-02-12,2026,False
+Doubao-Seed-2.0 Pro,ByteDance,Industry,China,China,Language,2026-02-14,2026,False
+Qwen3.5 397B-A17B,Alibaba,Industry,China,China,Language,2026-02-15,2026,False
+Grok 4.20,xAI,Industry,United States of America,United States of America,Language,2026-02-17,2026,False
+Qwen3.5-122B-A10B,Alibaba,Industry,China,China,Language,2026-02-24,2026,False
+Qwen3.5-35B-A3B,Alibaba,Industry,China,China,Language,2026-02-24,2026,False
+SWE 1.6,Cognition,Industry,United States of America,United States of America,Language,2026-03-01,2026,False
+Gemini 3.0 Flash-lite,Google DeepMind,Industry,United States of America,United States of America,Language,2026-03-03,2026,False
+GPT-5.4,OpenAI,Industry,United States of America,United States of America,Multimodal,2026-03-05,2026,False
+GPT-5.4 Pro,OpenAI,Industry,United States of America,United States of America,Multimodal,2026-03-05,2026,False
+Nemotron 3 Super,Nvidia,Industry,United States of America,United States of America,Language,2026-03-11,2026,False
+MiMo-V2-Pro,Xiaomi Corp,Industry,China,China,Language,2026-03-18,2026,False
+Composer 2,Cursor,Industry,United States of America,United States of America,Language,2026-03-19,2026,True
+Qwen3.5-Omni-Flash,Alibaba,Industry,China,China,Language,2026-03-29,2026,False
+Qwen3.5-Omni-Plus,Alibaba,Industry,China,China,Language,2026-03-29,2026,False
+Qwen 3.6 Plus,Alibaba,Industry,China,China,Language,2026-04-01,2026,False
+MolmoAct 2,Allen Institute for AI,Industry and academia,United States of America,"United States of America,United States of America,Singapore,United States of America,United States of America,United States of America,United States of America",Vision,2026-04-05,2026,True
+Claude Mythos Preview,Anthropic,Industry,United States of America,United States of America,Language,2026-04-07,2026,False
+GLM-5.1,Z.ai (Zhipu AI),Industry,China,China,Language,2026-04-07,2026,False
+Muse Spark,Meta AI,Industry,United States of America,United States of America,Multimodal,2026-04-08,2026,False
+EXAONE 4.5,LG AI Research,Industry,South Korea,South Korea,Language,2026-04-09,2026,True
+GPT-5.4-Cyber,OpenAI,Industry,United States of America,United States of America,Cybersecurity,2026-04-14,2026,False
+Gemini Flash 3.1 TTS,Google DeepMind,Industry,United States of America,United States of America,Audio,2026-04-15,2026,False
+Claude Opus 4.7,Anthropic,Industry,United States of America,United States of America,Language,2026-04-16,2026,False
+Kimi K2.6,Moonshot,Industry,China,China,Language,2026-04-20,2026,False
+GPT Image 2,OpenAI,Industry,United States of America,United States of America,Image generation,2026-04-21,2026,False
+MiMo-V2.5,Xiaomi Corp,Industry,China,China,Language,2026-04-22,2026,True
+GPT-5.5,OpenAI,Industry,United States of America,United States of America,Multimodal,2026-04-23,2026,False
+GPT-5.5 Pro,OpenAI,Industry,United States of America,United States of America,Multimodal,2026-04-23,2026,False
+MiMo-V2.5-Pro,Xiaomi Corp,Industry,China,China,Language,2026-04-23,2026,True
+Tencent Hy3 preview,Tencent,Industry,China,China,Language,2026-04-23,2026,False
+DeepSeek-V4-Flash,DeepSeek,Industry,China,China,Language,2026-04-24,2026,True
+DeepSeek-V4-Pro,DeepSeek,Industry,China,China,Language,2026-04-24,2026,True
+Mistral Medium 3.5,Mistral AI,Industry,France,France,Language,2026-04-29,2026,False
+GPT-5.5 Instant,OpenAI,Industry,United States of America,United States of America,Multimodal,2026-05-05,2026,False
+GPT-5.5 Cyber,OpenAI,Industry,United States of America,United States of America,Cybersecurity,2026-05-07,2026,False
+TML-Interaction-Small,Thinking Machines,Industry,United States of America,United States of America,Language,2026-05-11,2026,False
+Composer 2.5,Cursor,Industry,United States of America,United States of America,Language,2026-05-18,2026,True
+Gemini 3.5 Flash,Google DeepMind,Industry,United States of America,United States of America,Language,2026-05-19,2026,False
+Claude Opus 4.8,Anthropic,Industry,United States of America,United States of America,Language,2026-05-28,2026,False
+MiniMax-M3,MiniMax,Industry,China,China,Language,2026-06-01,2026,False
+MAI-Code-1-Flash,Microsoft,Industry,United States of America,United States of America,Language,2026-06-02,2026,False
+MAI-Image-2.5,Microsoft,Industry,United States of America,United States of America,Image generation,2026-06-02,2026,False
+MAI-Image-2.5-Flash,Microsoft,Industry,United States of America,United States of America,Image generation,2026-06-02,2026,False
+Qwen3.7-Plus,Alibaba,Industry,China,China,Language,2026-06-03,2026,False
+Nemotron 3 Ultra,Nvidia,Industry,United States of America,United States of America,Language,2026-06-04,2026,True
+Claude Fable 5,Anthropic,Industry,United States of America,United States of America,Language,2026-06-09,2026,False
+Claude Mythos 5,Anthropic,Industry,United States of America,United States of America,Language,2026-06-09,2026,False
+Solar Open2 250B,Upstage,Industry,South Korea,South Korea,Language,2026-06-28,2026,True
+LongCat-2.0,Meituan Inc,Industry,China,China,Language,2026-06-29,2026,True
+Tencent Hy3,Tencent,Industry,China,China,Language,2026-07-06,2026,False
+Inkling,Thinking Machines,Industry,United States of America,United States of America,Language,2026-07-15,2026,True
+Kimi K3,Moonshot,Industry,China,China,Language,2026-07-16,2026,True
+Qwen 3.8 Max,Alibaba,Industry,China,China,Language,2026-07-19,2026,False
+Claude Opus 5,Anthropic,Industry,United States of America,United States of America,Language,2026-07-24,2026,False
+A.X K2,SK Telecom,Industry,South Korea,South Korea,Language,2026-07-29,2026,True
+K-EXAONE 2.0,LG AI Research,Industry,South Korea,South Korea,Language,2026-07-31,2026,True
+Muse Spark 1.2,Meta AI,Industry,United States of America,United States of America,Language,2026-08-05,2026,False
+SeedRealtime,ByteDance,Industry,China,China,Language,2026-08-05,2026,False
+Motif-3,Motif Technologies,Industry,South Korea,South Korea,Language,2026-08-07,2026,True
+Qwen3.8-2.4T-A95B,Alibaba,Industry,China,China,Language,2026-08-08,2026,False
+GPT-5.6 Cyber,OpenAI,Industry,United States of America,United States of America,Cybersecurity,2026-08-11,2026,False
+GLM-5.3,Z.ai (Zhipu AI),Industry,China,China,Language,2026-08-14,2026,False
+GEN-1.5,Generalist,Industry,United States of America,United States of America,Robotics,2026-08-19,2026,False
+GLM-5.3-Flash,Z.ai (Zhipu AI),Industry,China,China,Language,2026-08-20,2026,True
+Tencent Hy4 preview,Tencent,Industry,China,China,Language,2026-08-28,2026,False
+Claude Fable 5.1,Anthropic,Industry,United States of America,United States of America,Language,2026-09-01,2026,False
+Gemini 3.8 Flash,Google DeepMind,Industry,United States of America,United States of America,Language,2026-09-02,2026,False
+Muse Spark 1.3,Meta AI,Industry,United States of America,United States of America,Language,2026-09-02,2026,False
+GPT-6 Astra,OpenAI,Industry,United States of America,United States of America,Multimodal,2026-09-03,2026,True
+OpenEvidence Darwin,OpenEvidence,Other or unknown,Unspecified,Unspecified,Language,2026-09-03,2026,False
+WeatherNext 3,Google DeepMind,Industry,United States of America,"United States of America,United States of America",Earth science,2026-09-03,2026,True
+ChatGPT Images 2.5,OpenAI,Industry,United States of America,United States of America,Image generation,2026-09-08,2026,False
+GPT-Image-2.5 Flare,OpenAI,Industry,United States of America,United States of America,Image generation,2026-09-08,2026,False
+GPT-Image-2.5 Sunburst,OpenAI,Industry,United States of America,United States of America,Image generation,2026-09-08,2026,False
+Mercury 2.5,Inception Labs,Industry,United States of America,United States of America,Language,2026-09-08,2026,False
+DeepSeek V4.1 Flash,DeepSeek,Industry,China,China,Language,2026-09-09,2026,True
+Step 5 Preview,StepFun,Industry,China,China,Language,2026-09-18,2026,False
+Grok 4.7,xAI,Industry,United States of America,United States of America,Language,2026-09-21,2026,False
+Claude Opus 5.5,Anthropic,Industry,United States of America,United States of America,Language,2026-09-22,2026,False
+GPT-6 Luna,OpenAI,Industry,United States of America,United States of America,Multimodal,2026-09-22,2026,False
+GPT-6 Luna Decisions,OpenAI,Industry,United States of America,United States of America,Language,2026-09-22,2026,False
+GPT-6 Sol,OpenAI,Industry,United States of America,United States of America,Multimodal,2026-09-22,2026,False
+MiMo-V2.6 Pro,Xiaomi Corp,Industry,China,China,Language,2026-09-22,2026,False
+Claude Sonnet 5.5,Anthropic,Industry,United States of America,United States of America,Language,2026-09-28,2026,False
+GPT-6.1 Sol,OpenAI,Industry,United States of America,United States of America,Multimodal,2026-09-29,2026,False
+Mistral Large 4,Mistral AI,Industry,France,France,Language,2026-10-06,2026,True
+Muse Wonder,Meta AI,Industry,United States of America,United States of America,Language,2026-10-12,2026,False
+Muse Wonder Full,Meta AI,Industry,United States of America,United States of America,Language,2026-10-12,2026,False
+Gemini 4 Argon,Google DeepMind,Industry,United States of America,United States of America,Language,2026-10-13,2026,False
+Grok Voice 3.0,xAI,Industry,United States of America,United States of America,Language,2026-10-14,2026,False
+MAI-Base-2,Microsoft,Industry,United States of America,United States of America,Language,2026-10-15,2026,True
+Ripple-65B Preview,Ricursive Intelligence,Industry,Unspecified,Unspecified,Language,2026-11-04,2026,True
+Inkling 2 Small,Thinking Machines,Industry,United States of America,United States of America,Language,2026-11-05,2026,True
+Claude Fable 5.2,Anthropic,Industry,United States of America,United States of America,Language,2026-11-09,2026,False
+Claude Mythos 5.2,Anthropic,Industry,United States of America,United States of America,Language,2026-11-09,2026,False
+Gemini 4 Carbon,Google DeepMind,Industry,United States of America,United States of America,Language,2026-11-10,2026,False

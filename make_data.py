@@ -5,7 +5,7 @@ Inputs (Epoch AI, CC BY 4.0; see DATA_DICTIONARY.md for URLs and download dates)
   data/raw/mmlu_external.csv
   data/raw/eci_scores.csv
 Outputs (data/processed/, the only files app.py reads)
-  models_clean.csv, cleaning_log.csv, coverage_by_year.csv,
+  models_clean.csv, models_all.csv, cleaning_log.csv, coverage_by_year.csv,
   mmlu_vs_compute.csv, eci_vs_compute.csv, meta.csv
 """
 import hashlib
@@ -15,7 +15,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from analysis import DATE_COL, FLOP_COL, clean_models
+from analysis import DATE_COL, FLOP_COL, all_models, clean_models
 
 ROOT = Path(__file__).resolve().parent
 RAW = ROOT / "data" / "raw"
@@ -33,6 +33,7 @@ def main():
     models, log = clean_models(raw)
     models.to_csv(OUT / "models_clean.csv", index=False)
     pd.DataFrame(log, columns=["step", "rows"]).to_csv(OUT / "cleaning_log.csv", index=False)
+    all_models(raw).to_csv(OUT / "models_all.csv", index=False)   # incl. models without compute
 
     # ---- 2. coverage: share of notable models per year that have a compute estimate ----
     r = pd.DataFrame({"year": pd.to_datetime(raw[DATE_COL], errors="coerce").dt.year,
