@@ -610,6 +610,15 @@ st.warning(
     "(6) 'Notable' models are Epoch AI's selection, not every AI model."
 )
 
+with st.expander("Charts we chose not to draw, and why"):
+    st.markdown(
+        "**Stacked \"share of gains\" area (compute vs algorithms).** Rejected because it implies that compute "
+        "and algorithms add up to a known total, each with a measurable share. The evidence cannot support that "
+        "precision: the algorithm share above is an estimate with a wide interval, not a measured part of a total.\n\n"
+        "**Dual-axis line chart (compute on one axis, capability on the other).** Rejected because where the two "
+        "lines cross depends on how each axis is scaled, so the chart could manufacture the conclusion. Every "
+        "chart on this page uses one labelled scale per axis.")
+
 with st.expander("Trace the numbers back to the source data"):
     st.markdown("**Cleaning steps for the notable-models file (row counts):**")
     steps_df = log.rename(columns={"step": "Step", "rows": "Rows"})
